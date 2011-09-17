@@ -1,0 +1,49 @@
+{% extends "blog/base.html" %}
+
+{% load i18n %}
+{% load humanize %}
+{% load pagination_tags %}
+{% load extra_tagging_tags %}
+{% load blog_tags %}
+{% load markup %}
+{% load switchcase %}
+{% load restructuredtext %}
+{% load blog_tags %}
+
+{% block head_title %}{% blocktrans %}All Blogs{% endblocktrans %}{% endblock %}
+
+{% block extra_head %}
+    <link rel="alternate" type="application/atom+xml" title="Blog Post Feed for All Users" href="/feeds/posts/all/" />
+{% endblock %}
+
+{% block body %}
+    <script type="text/javascript">
+    var map;
+    $(document).ready(function(){
+    	map = initialize(39.904214,116.407413,4);
+    });  
+    </script>
+
+    <h1>{% trans "All Blogs" %}</h1>
+    {% if blogs %}
+        <p>{% trans "These are blog posts from everyone:" %}</p>
+        <div id="map_canvas" style="width:600px; height:500px"></div>
+        
+        {% autopaginate blogs %}
+
+            {% for blog_post in blogs %}
+            	<script type="text/javascript"">
+            		$(document).ready(function(){
+            			add_marker({{blog_post.latitude}}, {{blog_post.longitude}},"{{blog_post.title}}","{{blog_post.body}}", map);
+            		});
+			    </script>
+			    <p>{{ blog_post.latitude }}</p>
+                {% show_blog_post blog_post %}
+            {% endfor %}
+            
+
+        {% paginate %}
+    {% else %}
+        {% trans "No blog posts yet." %}
+    {% endif %}
+{% endblock %}

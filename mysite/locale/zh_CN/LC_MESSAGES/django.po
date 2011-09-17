@@ -1,0 +1,5142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-18 14:26+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid ""
+"\n"
+"                        None yet. Go to the <a href=\"%(wiki_url)s\" title="
+"\"wiki\">wiki</a> to start a new article.\n"
+"                    "
+msgstr ""
+"\n"
+"                        无。转到<a href=\"%(wiki_url)s\" title=\"wiki\">维基"
+"</a> 创建新文章。\n"
+"                    "
+
+msgid ""
+"\n"
+"                        There are no photos associated to this tribe. You "
+"can <a href=\"%(photo_upload_url)s\">add a photo</a>.</a>\n"
+"                    "
+msgstr ""
+"\n"
+"                        该圈子还没有照片。您可以 <a href="
+"\"%(photo_upload_url)s\">添加照片</a>。</a>\n"
+"                    "
+
+msgid ""
+"\n"
+"                (most recent: %(topic_modified)s)\n"
+"                "
+msgstr ""
+"\n"
+"                (最新： %(topic_modified)s)\n"
+"                "
+
+msgid ""
+"\n"
+"        <b>Pinax</b> is a <a href=\"http://djangoproject.com/\">Django</a>\n"
+"        project intended to provide a starting point for websites. By\n"
+"        integrating numerous reusable Django apps to take care of the\n"
+"        things that many sites have in common, it lets you focus on what\n"
+"        makes your site different.\n"
+"        "
+msgstr ""
+"\n"
+"        <b>Pinax</b>是一款旨在提供快速建的<a href=\"http://djangoproject.com/"
+"\">Django</a>项目，\n"
+"        它集成了很多网站都需要的、可复用的Django应用，使您更关注于网站的个性"
+"化。\n"
+"        "
+
+msgid ""
+"\n"
+"        <h1> Wiki for %(group_type)s <a href=\"%(group_url)s\">%(group_name)"
+"s</a> </h1>\n"
+"    "
+msgstr ""
+"\n"
+"        <h1> %(group_type)s <a href=\"%(group_url)s\">%(group_name)s</a> 的"
+"Wiki </h1>\n"
+"    "
+
+msgid ""
+"\n"
+"        <p>Your <b>About Page</b> would normally go here...</p>\n"
+"    "
+msgstr ""
+"\n"
+"        <p>您的 <b>关于</b> 页面将转到这里……</p>\n"
+"    "
+
+msgid ""
+"\n"
+"        For more information about Pinax, see\n"
+"        <a href=\"http://pinaxproject.com/\">http://pinaxproject.com/</a>.\n"
+"        "
+msgstr ""
+"\n"
+"        欲了解 Pinax 更多信息，请访问\n"
+"        <a href=\"http://pinaxproject.com/\">http://pinaxproject.com/</a>。\n"
+"        "
+
+msgid ""
+"\n"
+"        In 0.5 this was called \"complete_project\".\n"
+"        "
+msgstr ""
+"\n"
+"        在 0.5 版本中，该项目被称为 \"complete_project\"。\n"
+"        "
+
+msgid ""
+"\n"
+"        Pinax includes the <a href=\"http://www.famfamfam.com/lab/icons/silk/"
+"\">Silk icon set 1.3</a> by Mark James.\n"
+"    "
+msgstr ""
+"\n"
+"        Pinax 包含了 <a href=\"http://www.famfamfam.com/lab/icons/silk/"
+"\">Silk 图标集 1.3</a> ，作者：Mark James。\n"
+"    "
+
+msgid ""
+"\n"
+"        These are tweets from the %(follow_count)s %(follow_name)s you are "
+"following (plus your own)"
+msgstr ""
+"\n"
+"        这是所有 %(follow_count)s %(follow_name)s 您所围观的微博 (包括您自己"
+"的)"
+
+msgid ""
+"\n"
+"        This project comes with the bare minimum set of applications and\n"
+"        templates to get you started. It includes no extra tabs, only the\n"
+"        profile and notices tabs are included by default. From here you can\n"
+"        add any extra functionality and applications that you would like.\n"
+"        "
+msgstr ""
+"\n"
+"        该项目只包含了最小的功能和模板。\n"
+"        默认只有个人资料和站内消息两项。\n"
+"        从本处您可以添加额外的功能和应用。\n"
+"        "
+
+msgid ""
+"\n"
+"        This project demonstrates a closed site requiring an invitation to\n"
+"        join and not exposing any information publicly. It provides a\n"
+"        top-level task tracking system, wiki and bookmarks. It is intended\n"
+"        to be the starting point of sites like intranets.\n"
+"        "
+msgstr ""
+"\n"
+"        该项目演示了一个需要邀请的、不暴露任何信息的封闭站点。\n"
+"        它提供了一个顶级的任务跟踪系统、维基以及书签。\n"
+"        它旨在提供一个类似内部网站的起点。\n"
+"        "
+
+msgid ""
+"\n"
+"        This project demonstrates a social networking site. It provides\n"
+"        profiles, friends, photos, blogs, tribes, wikis, tweets, bookmarks,\n"
+"        swaps, locations and user-to-user messaging.\n"
+"        "
+msgstr ""
+"\n"
+"        该项目演示了一个SNS网站。\n"
+"        它提供了个人资料、好友、相册、博客、圈子、维基、微博、书签、交易、位"
+"置和站内消息。\n"
+"        "
+
+msgid ""
+"\n"
+"        This project demonstrates group functionality and the tasks, wiki\n"
+"        and topics apps. It is intended to be the starting point for things\n"
+"        like code project management where each code project gets its own\n"
+"        wiki, task tracking system and threaded discussions.\n"
+"        "
+msgstr ""
+"\n"
+"        该项目演示了群组功能和任务、维基、话题等应用。\n"
+"        它关注事情的起始，就像编码项目管理中每个项目都有自己的维基、任务跟踪"
+"系统以及话题讨论。\n"
+"        "
+
+msgid ""
+"\n"
+"        This project demonstrates the use of a waiting list and signup\n"
+"        codes for sites in private beta. Otherwise it is the same as\n"
+"        basic_project.\n"
+"        "
+msgstr ""
+"\n"
+"        该项目演示了等待列表的使用以及网站的注册代码的内部测试。\n"
+"        其它的与 basic_project 一样。\n"
+"        "
+
+msgid " By %(filter_title)s "
+msgstr "按 %(filter_title)s "
+
+msgid "\"%s\" is not a valid value for a primary key."
+msgstr "\"%s\" 不是一个正确的主键值。"
+
+msgid "%(bookmark)s for %(user)s"
+msgstr "%(user)s 的 %(bookmark)s"
+
+msgid "%(commentcount)s Comments "
+msgstr "%(commentcount)s 评论"
+
+msgid "%(field_name)s must be unique for %(date_field)s %(lookup)s."
+msgstr "%(field_name)s 必须唯一，为了 %(date_field)s %(lookup)s。"
+
+msgid "%(full_result_count)s total"
+msgstr "共 %(full_result_count)s 个"
+
+msgid "%(message_sender)s has sent you a reply to %(message_parent_msg)s."
+msgstr "%(message_sender)s 回复了您的 %(message_parent_msg)s."
+
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr "%(model_name)s 拥有项 %(field_label)s 已经存在。"
+
+msgid "%(name)s object with primary key %(key)r does not exist."
+msgstr "主键为 %(key)r 的 %(name)s 不存在。"
+
+msgid "%(other_user)s has requested friendship."
+msgstr "%(other_user)s 请求加为好友。"
+
+msgid "%(other_user)s is Following"
+msgstr "%(other_user)s 所围观的"
+
+msgid "%(other_user)s to be a friend."
+msgstr "%(other_user)s 成为好友。"
+
+msgid "%(other_user)s's Friends"
+msgstr "%(other_user)s 的好友"
+
+msgid "%(other_user)s's Tribes"
+msgstr "%(other_user)s 的圈子"
+
+msgid ""
+"%(sender)s wrote:\n"
+"%(body)s"
+msgstr ""
+"%(sender)s 写道：\n"
+"%(body)s"
+
+msgid "%(site_name)s comments"
+msgstr "%(site_name)s 评论"
+
+msgid "%(tag)s tag was given a badly formatted option: '%(option)s'"
+msgstr "标签 %(tag)s 被指定了错误格式的选项： '%(option)s'"
+
+msgid "%(tag)s tag's '%(option)s' option was not a valid choice: '%(value)s'"
+msgstr "标签 %(tag)s 的选项 '%(option)s' 不是一个正确的选项 '%(value)s'"
+
+msgid "%(tag)s tag's '%(option)s' option was not a valid integer: '%(value)s'"
+msgstr "标签 %(tag)s 的选项 '%(option)s' 不是一个正确的整数： '%(value)s'"
+
+msgid "%(total)s people with email found, %(imported)s contacts imported."
+msgstr "发现 %(total)s 个邮件联系人，导入 %(imported)s 个联系人。"
+
+msgid "%(total)s vCards found, %(imported)s contacts imported."
+msgstr "发现 %(total)s 个vCards， 导入 %(imported)s 个联系人。"
+
+msgid "%(tweet.sent|timesince)s ago"
+msgstr "%(tweet.sent|timesince)s 以前"
+
+msgid "%(tweet_age)s ago"
+msgstr "%(tweet_age)s 以前"
+
+msgid "%s administration"
+msgstr "%s 管理"
+
+msgid "%s can only be set on instances."
+msgstr "%s 只能在实例中设置。"
+
+msgid "%s does not appear to be a urlpattern object"
+msgstr "%s 不是一个URL对象"
+
+msgid "%s tag requires either three or five arguments"
+msgstr "%s 标签需要三个或五个参数"
+
+msgid "%s tag requires exactly five arguments"
+msgstr "标签 %s 必须要求五个参数"
+
+msgid "%s tag requires exactly three arguments"
+msgstr "标签 %s 必须要求三个参数"
+
+msgid "&copy; 2008 &lt;your company here&gt;"
+msgstr ""
+"&copy; 2008 &lt;汉化：<a href=\"http://www.himysql.com\">www.himysql.com</a> "
+"演示：<a href=\"http://pinax.entcloud.com/\">Pinax.ENTCloud.COM</a>&gt;"
+
+msgid ""
+"( Custom avatars will not show up unless you have a <a href="
+"\"%(acct_email_url)s\">confirmed email address</a>. )"
+msgstr ""
+"( 自定义头像只有在 <a href=\"%(acct_email_url)s\">确认邮箱地址</a> 后才能显"
+"示。 )"
+
+msgid "(all content will be removed)"
+msgstr "（所有内容都将被删除）"
+
+msgid "(including you)"
+msgstr "(包含您)"
+
+msgid "(replace)"
+msgstr "(替换)"
+
+msgid ""
+"<a class=\"expand_all\">expand all</a> &ndash; <a class=\"collapse_all"
+"\">collapse all</a>"
+msgstr ""
+"<a class=\"expand_all\">展开所有</a> &ndash; <a class=\"collapse_all\">收缩所"
+"有</a>"
+
+msgid ""
+"<a href=\"%(author_url)s\">%(post_author)s</a> has posted <a href="
+"\"%(post_url)s\">%(post_title)s</a> to their blog."
+msgstr ""
+"<a href=\"%(author_url)s\">%(post_author)s</a> 在博客中发布了文章 <a href="
+"\"%(post_url)s\">%(post_title)s</a> 。"
+
+msgid ""
+"<a href=\"%(creator_url)s\">%(creator)s</a> has added a task '<a href="
+"\"%(task_url)s\">%(task)s</a>' in '<a href=\"%(group_url)s\">%(group)s</a>'."
+msgstr ""
+"<a href=\"%(creator_url)s\">%(creator)s</a> 在组 '<a href=\"%(group_url)s\">"
+"%(group)s</a>' 中添加了新任务 '<a href=\"%(task_url)s\">%(task)s</a>' 。"
+
+msgid ""
+"<a href=\"%(creator_url)s\">%(creator)s</a> has added a task '<a href="
+"\"%(task_url)s\">%(task)s</a>'."
+msgstr ""
+"<a href=\"%(creator_url)s\">%(creator)s</a> 添加了新任务 '<a href="
+"\"%(task_url)s\">%(task)s</a>'。"
+
+msgid ""
+"<a href=\"%(from_user_url)s\">%(invitation_from_user)s</a> and <a href="
+"\"%(to_user_url)s\">%(to_user)s</a> are now friends."
+msgstr ""
+"<a href=\"%(from_user_url)s\">%(invitation_from_user)s</a> 和 <a href="
+"\"%(to_user_url)s\">%(to_user)s</a> 成为好友。"
+
+msgid ""
+"<a href=\"%(profile_url)s\">%(tweet_sender)s</a> sent you a <a href="
+"\"%(reply_url)s\">tweet reply</a>."
+msgstr ""
+"<a href=\"%(profile_url)s\">%(tweet_sender)s</a> 回复 <a href=\"%(reply_url)s"
+"\">了您的微博</a>。"
+
+msgid "<a href=\"%(profile_url)s\">%(user)s</a> is now following your tweets."
+msgstr "<a href=\"%(profile_url)s\">%(user)s</a> 正在围观您的微博。"
+
+msgid "<a href=\"%(project_create_url)s\">Create</a> your own project."
+msgstr "<a href=\"%(project_create_url)s\">创建</a> 您的项目。"
+
+msgid ""
+"<a href=\"%(sender_url)s\">%(message_sender)s</a> has sent you a reply to <a "
+"href=\"%(message_url)s\">%(message_parent_msg)s</a>."
+msgstr ""
+"<a href=\"%(sender_url)s\">%(message_sender)s</a> 回复了 <a href="
+"\"%(message_url)s\">%(message_parent_msg)s</a>。"
+
+msgid ""
+"<a href=\"%(signup_url)s\">Sign up</a> and <a href=\"%(login_url)s\">log in "
+"</a> to add this person as a friend and see their tweets and blog posts."
+msgstr ""
+"<a href=\"%(signup_url)s\">注册</a> 并且 <a href=\"%(login_url)s\">登陆 </a> "
+"以加该人为好友，同时围观他的微博和博文。"
+
+msgid ""
+"<a href=\"%(signup_url)s\">Sign up</a> and <a href=\"%(login_url)s\">log in "
+"</a> to create your own group or join an existing one."
+msgstr ""
+"<a href=\"%(signup_url)s\">注册</a> 并且 <a href=\"%(login_url)s\">登陆 </a> "
+"以创建您自己的群组或者加入已有群组。"
+
+msgid ""
+"<a href=\"%(signup_url)s\">Sign up</a> and <a href=\"%(login_url)s\">log in "
+"</a> to create your own project or join an existing one."
+msgstr ""
+"<a href=\"%(signup_url)s\">注册</a> 并且 <a href=\"%(login_url)s\">登陆 </a> "
+"以创建您的项目或者加入已有项目。"
+
+msgid ""
+"<a href=\"%(signup_url)s\">Sign up</a> and <a href=\"%(login_url)s\">log in "
+"</a> to create your own tribe or join an existing one."
+msgstr ""
+"<a href=\"%(signup_url)s\">注册</a> 并且 <a href=\"%(login_url)s\">登陆 </a> "
+"以创建您自己的圈子或者加入已有圈子。"
+
+msgid ""
+"<a href=\"%(signup_url)s\">Sign up</a> and <a href=\"%(login_url)s\">log in "
+"</a> to join this group."
+msgstr ""
+"<a href=\"%(signup_url)s\">注册</a> 并且 <a href=\"%(login_url)s\">登陆 </a> "
+"以加入该群组。"
+
+msgid ""
+"<a href=\"%(signup_url)s\">Sign up</a> and <a href=\"%(login_url)s\">log in "
+"</a> to join this tribe."
+msgstr ""
+"<a href=\"%(signup_url)s\">注册</a> 并 <a href=\"%(login_url)s\">登陆 </a> 才"
+"能加入该圈子。"
+
+msgid "<a href=\"%(tribe_create_url)s\">Create</a> your own tribe."
+msgstr "<a href=\"%(tribe_create_url)s\">创建</a> 您自己的圈子。"
+
+msgid ""
+"<a href=\"%(user_url)s\">%(invitation_from_user)s</a> has requested to add "
+"you as a friend (see <a href=\"%(invitation_page)s\">invitations</a>)"
+msgstr ""
+"<a href=\"%(user_url)s\">%(invitation_from_user)s</a> 请求与您成为好友 (参见 "
+"<a href=\"%(invitation_page)s\">邀请</a>)"
+
+msgid ""
+"<a href=\"%(user_url)s\">%(invitation_user)s</a> has accepted your friend "
+"request."
+msgstr ""
+"<a href=\"%(user_url)s\">%(invitation_user)s</a> 已接受了您的好友请求。"
+
+msgid ""
+"<a href=\"%(user_url)s\">%(new_user)s</a> has joined and is now a friend."
+msgstr "<a href=\"%(user_url)s\">%(new_user)s</a> 已加入且和您成为好友。"
+
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has assigned task '<a href="
+"\"%(task_url)s\">%(task)s</a>' in '<a href=\"%(group_url)s\">%(group)s</a>' "
+"to <a href=\"%(assignee_url)s\">%(assignee)s</a>."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 分配了组 '<a href=\"%(group_url)s\">"
+"%(group)s</a>' 中的任务 '<a href=\"%(task_url)s\">%(task)s</a>' 给<a href="
+"\"%(assignee_url)s\">%(assignee)s</a>。"
+
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has assigned task '<a href="
+"\"%(task_url)s\">%(task)s</a>' to <a href=\"%(assignee_url)s\">%(assignee)s</"
+"a>."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 分配了任务 '<a href=\"%(task_url)s\">"
+"%(task)s</a>' 给 <a href=\"%(assignee_url)s\">%(assignee)s</a>。"
+
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has commented on task '<a href="
+"\"%(task_url)s\">%(task)s</a>' in '<a href=\"%(group_url)s\">%(group)s</a>'."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 评论了组 '<a href=\"%(group_url)s\">"
+"%(group)s</a>'中的任务 '<a href=\"%(task_url)s\">%(task)s</a>'。"
+
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has commented on task '<a href="
+"\"%(task_url)s\">%(task)s</a>'."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 评论了任务 '<a href=\"%(task_url)s\">"
+"%(task)s</a>'。"
+
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has commented on your blog post '<a "
+"href=\"%(post_url)s\">%(post)s</a>'."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 对您的文章 '<a href=\"%(post_url)s\">"
+"%(post)s</a>'进行了评论。"
+
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has joined the group <a href="
+"\"%(group_url)s\">%(group)s</a>."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 已加入群组 <a href=\"%(group_url)s\">"
+"%(group)s</a>。"
+
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has joined the tribe <a href="
+"\"%(tribe_url)s\">%(tribe)s</a>."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 加入 <a href=\"%(tribe_url)s\">%(tribe)"
+"s</a> 圈子。"
+
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has marked task '<a href=\"%(task_url)s"
+"\">%(task)s</a>' as %(new_state)s."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 将任务 '<a href=\"%(task_url)s\">"
+"%(task)s</a>' 状态置为 %(new_state)s。"
+
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has updated the status of task '<a "
+"href=\"%(task_url)s\">%(task)s</a>' in '<a href=\"%(group_url)s\">%(group)s</"
+"a>' to '%(task_status)s'."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 将组 '<a href=\"%(group_url)s\">"
+"%(group)s</a>' 中的任务 '<a href=\"%(task_url)s\">%(task)s</a>' 状态置为 "
+"'%(task_status)s'。"
+
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has updated the status of task '<a "
+"href=\"%(task_url)s\">%(task)s</a>' to '%(task_status)s'."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 将任务 '<a href=\"%(task_url)s\">"
+"%(task)s</a>' 状态置为 '%(task_status)s'。"
+
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has updated the tags of task '<a href="
+"\"%(task_url)s\">%(task)s</a>' in '<a href=\"%(group_url)s\">%(group)s</a>' "
+"to '%(task_tags)s'."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 将组 '<a href=\"%(group_url)s\">"
+"%(group)s</a>' 中的任务 '<a href=\"%(task_url)s\">%(task)s</a>' 标签更新为 "
+"'%(task_tags)s'。"
+
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has updated the tags of task '<a href="
+"\"%(task_url)s\">%(task)s</a>' to '%(task_tags)s'."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 将任务 '<a href=\"%(task_url)s\">"
+"%(task)s</a>' 的标签更新为 '%(task_tags)s'。"
+
+msgid ""
+"<h3>By %s:</h3>\n"
+"<ul>\n"
+msgstr ""
+"<h3>由 %s:</h3>\n"
+"<ul>\n"
+
+msgid ""
+"<p>If you have OpenID, <a href=\"%(acct_login_url)s\">log in</a> using that "
+"to begin using this site with OpenID right away.</p>"
+msgstr ""
+"<p>若您拥有 OpenID 帐号，立即 <a href=\"%(acct_login_url)s\">登陆</a> 本站开"
+"始新的旅程。</p>"
+
+msgid ""
+"<p>Your <b>Digital Millennium Copyright Act Notice</b> would normally go "
+"here...</p>"
+msgstr "<p>您的 <b>数字千年版权法案公告</b> 页面将转到这里……</p>"
+
+msgid "<p>Your <b>Privacy Policy</b> would normally go here...</p>"
+msgstr "<p>您的 <b>隐私策略</b> 页面将转到这里……</p>"
+
+msgid "<p>Your <b>Terms of Service</b> would normally go here...</p>"
+msgstr "<p>您的 <b>服务条款</b> 页面将转到这里……</p>"
+
+msgid ""
+"<strong>Already have an account?</strong> <a href=\"%(acct_login_openid_url)s"
+"\">Login here</a> to associate your OpenID with your existing account."
+msgstr ""
+"<strong>已有帐号了吗？</strong> <a href=\"%(acct_login_openid_url)s\">登陆</"
+"a> 以关联 OpenID 到您的帐号上。"
+
+msgid ">Create it now</a>?"
+msgstr ">立即创建吗</a>？"
+
+msgid "A \"slug\" is a unique URL-friendly title for an object."
+msgstr "\"slug\" 是唯一友好URL标题的。"
+
+msgid "A <b>project</b> is a group of people working on a common set of tasks."
+msgstr "<b>项目</b> 是由一群的人共同完成的任务集。"
+
+msgid ""
+"A <b>project</b> is a group of people working together on a common set of "
+"tasks."
+msgstr "<b>项目</b> 是由一群的人共同完成的任务集。"
+
+msgid "A <b>tribe</b> is a group of people with some common interest."
+msgstr "<b>圈子</b>是一群有共同兴趣爱好的人。"
+
+msgid "A description of this Gallery."
+msgstr "该相册的描述。"
+
+msgid ""
+"A factor of 0.0 gives a black and white image, a factor of 1.0 gives the "
+"original image."
+msgstr "取值 0.0 将得到黑白图像，取值 1.0 将得到原始图像。"
+
+msgid ""
+"A factor of 0.0 gives a black image, a factor of 1.0 gives the original "
+"image."
+msgstr "取值 0.0 将得到黑色图像，取值 1.0 将得到原始图像。"
+
+msgid ""
+"A factor of 0.0 gives a blurred image, a factor of 1.0 gives the original "
+"image."
+msgstr "取值 0.0 将得到模糊图像，取值 1.0 将得到原始图像。"
+
+msgid ""
+"A factor of 0.0 gives a solid grey image, a factor of 1.0 gives the original "
+"image."
+msgstr "取值 0.0 将得到灰度图像，取值 1.0 将得到原始图像。"
+
+msgid "A group already exists with that name."
+msgstr "已有重名群组。"
+
+msgid "A new group <a href=\"%(group_url)s\">%(group)s</a> has been created."
+msgstr "新群组 <a href=\"%(group_url)s\">%(group)s</a> 已创建。"
+
+msgid "A new group <a href=\"%(tribe_url)s\">%(tribe)s</a> has been created."
+msgstr "圈子 <a href=\"%(tribe_url)s\">%(tribe)s</a> 已创建。"
+
+msgid "A project already exists with that name."
+msgstr "已经有重名项目。"
+
+msgid "A tag may be no more than %s characters long."
+msgstr "标签不能长于 %s。"
+
+msgid "A tribe already exists with that name."
+msgstr "已经有重名圈子。"
+
+msgid "A user with that username already exists."
+msgstr "用户名已经存在。"
+
+msgid "AM"
+msgstr "上午"
+
+msgid "Aargau"
+msgstr "高州"
+
+msgid "About"
+msgstr "关于"
+
+msgid "About Us"
+msgstr "关于我们"
+
+msgid "About this project"
+msgstr "关于该项目"
+
+msgid "Accept"
+msgstr "接受"
+
+msgid "Acceptance Received"
+msgstr "收到接受信息。"
+
+msgid "Acceptance Sent"
+msgstr "接受信息已发送"
+
+msgid "Accepted"
+msgstr "已接受"
+
+msgid "Accepted Time"
+msgstr "接受时间"
+
+msgid "Accepted friendship request from %(from_user)s"
+msgstr " %(from_user)s 接受了您的好友请求"
+
+msgid "Account"
+msgstr "帐户"
+
+msgid "Action"
+msgstr "操作"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Add %(name)s"
+msgstr "添加 %(name)s"
+
+msgid "Add %s"
+msgstr "添加 %s"
+
+msgid "Add Another"
+msgstr "添加另一个"
+
+msgid "Add As Friend"
+msgstr "加为好友"
+
+msgid "Add Bookmark"
+msgstr "添加书签"
+
+msgid "Add Email Address"
+msgstr "添加电子邮箱"
+
+msgid "Add Task"
+msgstr "添加任务"
+
+msgid "Add a new Offer"
+msgstr "添加新交易"
+
+msgid "Add attachment"
+msgstr "添加附件"
+
+msgid "Add new member"
+msgstr "添加新成员"
+
+msgid "Add task"
+msgstr "添加任务"
+
+msgid "Add task and add another"
+msgstr "添加任务并新建一个"
+
+msgid "Add user"
+msgstr "添加用户"
+
+msgid "Added %(name)s \"%(object)s\"."
+msgstr "%(name)s \"%(object)s\" 已添加。"
+
+msgid "Admin"
+msgstr "管理页面"
+
+msgid "Advanced options"
+msgstr "高级选项"
+
+msgid "All"
+msgstr "所有"
+
+msgid "All Articles"
+msgstr "所有文章"
+
+msgid "All Blog Posts Matching "
+msgstr "所有博客文章满足"
+
+msgid "All Blogs"
+msgstr "所有博客"
+
+msgid "All Bookmarks"
+msgstr "所有书签"
+
+msgid "All Groups"
+msgstr "所有群组"
+
+msgid "All Photos Matching "
+msgstr "所有照片满足"
+
+msgid "All Profiles"
+msgstr "所有资料"
+
+msgid "All Projects"
+msgstr "所有项目"
+
+msgid "All Tasks"
+msgstr "所有任务"
+
+msgid "All Tribe Topics Matching <i>%(tag)s</i>"
+msgstr "所有圈子的话题满足 <i>%(tag)s</i>"
+
+msgid "All Tribes"
+msgstr "所有圈子"
+
+msgid "All Tribes Matching <i>%(tag)s</i>"
+msgstr "所有圈子满足 <i>%(tag)s</i>"
+
+msgid "All Tweets"
+msgstr "所有的微博"
+
+msgid "All Wiki Articles Matching <i>%(tag)s</i>"
+msgstr "所有维基文章满足 <i>%(tag)s</i>"
+
+msgid "All dates"
+msgstr "所有日期"
+
+msgid ""
+"All photos in the gallery will be given a title made up of the gallery title "
+"+ a sequential number."
+msgstr "该相册中的所有照片将会以相册名称加一连串的数字命名。"
+
+msgid "All users"
+msgstr "所有用户"
+
+msgid "Already have an account?"
+msgstr "已经有帐号了？"
+
+msgid "Already logged in"
+msgstr "已经登陆"
+
+msgid ""
+"Also see <a href=\"%(tweet_followers_url)s\">who is following</a> "
+"%(other_user)s."
+msgstr ""
+"同时显示 <a href=\"%(tweet_followers_url)s\">围观的人</a> %(other_user)s。"
+
+msgid ""
+"Also see <a href=\"%(tweet_following_url)s\">who %(other_user)s is "
+"following</a>."
+msgstr ""
+"同时显示您所围观的 <a href=\"%(tweet_following_url)s\">人 %(other_user)s </"
+"a>。"
+
+msgid "An \"admin_thumbnail\" photo size has not been defined."
+msgstr "\"admin_thumbnail\"照片大小未定义。"
+
+msgid "An article with this title already exists."
+msgstr "已存在相同标题的文章。"
+
+msgid "An e-mail has been sent to %(email)s."
+msgstr "邮件已经发送至 %(email)s。"
+
+msgid "Announcements"
+msgstr "公告"
+
+msgid "Announcements : %(object)s"
+msgstr "公告： %(object)s"
+
+msgid "Any date"
+msgstr "不限日期"
+
+msgid "App %r not found"
+msgstr "应用 %r 未发现"
+
+msgid "Approve"
+msgstr "批准"
+
+msgid "Approve a comment"
+msgstr "审核评论"
+
+msgid "April"
+msgstr "四月"
+
+msgid "Arabic"
+msgstr "阿拉伯语"
+
+msgid "Are you sure to cancel this action?"
+msgstr "确认取消该操作吗？"
+
+msgid ""
+"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
+"All of the following related items will be deleted:"
+msgstr ""
+"确认要删除 %(object_name)s \"%(escaped_object)s\" 吗？下列所有相关内容都将被"
+"删除："
+
+msgid "Are you sure?"
+msgstr "确认吗？"
+
+msgid "Argentinean Spanish"
+msgstr "阿根廷西班牙语"
+
+msgid "Article"
+msgstr "文章"
+
+msgid "Article Content Markup"
+msgstr "文章内容标志"
+
+msgid "Article Creator"
+msgstr "文章作者"
+
+msgid "Article Edited"
+msgstr "已编辑文章"
+
+msgid "Article History"
+msgstr "文章历史"
+
+msgid "Article Revision Reverted"
+msgstr "文章版本已回滚"
+
+msgid "Article by title"
+msgstr "文章按标题排序"
+
+msgid "Articles"
+msgstr "文章"
+
+msgid "As above, but opens the admin page in a new window."
+msgstr "同上，但是在新窗口打开管理页面。"
+
+msgid "Assigned Tasks"
+msgstr "已分配的任务"
+
+msgid "Assignee"
+msgstr "被指派人"
+
+msgid "At"
+msgstr "在"
+
+msgid "Attachments"
+msgstr "附件"
+
+msgid "Aug."
+msgstr "八月"
+
+msgid "August"
+msgstr "八月"
+
+msgid "Authenticate and associate with this account"
+msgstr "登陆并关联本帐号"
+
+msgid "Authenticated?"
+msgstr "身份验证？"
+
+msgid "Authorization Required"
+msgstr "需要授权"
+
+msgid "Avatar"
+msgstr "头像"
+
+msgid "Avatar Image"
+msgstr "头像"
+
+msgid "Avatar Updated"
+msgstr "头像已更新"
+
+msgid "Avatar for %s"
+msgstr "%s 的头像"
+
+msgid "Back to All Tasks"
+msgstr "返回到所有任务"
+
+msgid "Back to Task List"
+msgstr "返回到任务列表"
+
+msgid "Back to Topic List"
+msgstr "返回到主题列表"
+
+msgid "Basque"
+msgstr "巴斯克语"
+
+msgid "Bengali"
+msgstr "孟加拉语"
+
+msgid ""
+"Between 0.1 and 99.0. This field is supported by some search engines and "
+"defines the delay between successive crawler accesses in seconds. If the "
+"crawler rate is a problem for your server, you can set the delay up to 5 or "
+"10 or a comfortable value for your server, but it's suggested to start with "
+"small values (0.5-1), and increase as needed to an acceptable value for your "
+"server. Larger delay values add more delay between successive crawl accesses "
+"and decrease the maximum crawl rate to your web server."
+msgstr ""
+"介于 0.1 和 99.0 之间。该项由某些搜索引擎提供，并且定义了爬虫成功抓取之间相隔"
+"的秒。若爬虫抓取太频繁，影响您服务器的正常运行，您可以设置间隔的秒为5 或 10 "
+"或一个其它合适您服务器的值。但是，我们建议您开始时设置为较小的值（0.5-1），并"
+"且逐步调整到适合您服务器值。较久的间隔增加了爬虫成功抓取之间的时间，减少了最"
+"大抓取率。"
+
+msgid "Blog Post"
+msgstr "博文"
+
+msgid "Blog Posts"
+msgstr "博文"
+
+msgid "Blogs"
+msgstr "博客"
+
+msgid "Body"
+msgstr "主体"
+
+msgid "Bookmarks"
+msgstr "书签"
+
+msgid "Boolean (Either True or False)"
+msgstr "布尔型（真或假）"
+
+msgid "Boolean (Either True, False or None)"
+msgstr "布尔型（真或假或None）"
+
+msgid "Bottom"
+msgstr "底"
+
+msgid "Brazilian Portuguese"
+msgstr "巴西葡萄牙语"
+
+msgid "Bulgarian"
+msgstr "保加利亚语"
+
+msgid "Burgenland"
+msgstr "布尔根兰州"
+
+msgid ""
+"By clicking \"Sign Up\", you are indicating that you have read and agree to "
+"the <a href=\"%(terms_url)s\">Terms of Use</a> and <a href=\"%(privacy_url)s"
+"\">Privacy Policy</a>."
+msgstr ""
+"点击 \"注册\"，表示您已经读过并且同意 <a href=\"%(terms_url)s\">使用条款</a> "
+"和 <a href=\"%(privacy_url)s\">隐私策略</a>。"
+
+msgid ""
+"By clicking &quot;Sign Up&quot;, you are indicating that you have read and "
+"agree to the <a href=\"%(terms_url)s\">Terms of Use</a> and <a href="
+"\"%(privacy_url)s\">Privacy Policy</a>."
+msgstr ""
+"点击 &quot;注册&quot;，即表示您已经阅读过并同意<a href=\"%(terms_url)s\">使用"
+"条款</a> 和 <a href=\"%(privacy_url)s\">隐私策略</a>。"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Caption will be added to all photos."
+msgstr "说明文字将被加到所有照片中。"
+
+msgid "Carinthia"
+msgstr "克恩顿州"
+
+msgid "Catalan"
+msgstr "加泰罗尼亚语"
+
+msgid "Center (Default)"
+msgstr "中央 (默认)"
+
+msgid ""
+"Chain multiple filters using the following pattern \"FILTER_ONE->FILTER_TWO-"
+">FILTER_THREE\". Image filters will be applied in order. The following "
+"filters are available: %s."
+msgstr ""
+"连续使用多个滤镜使用如下方式 \"滤镜一->滤镜二->滤镜三\"。图像滤镜将被依次应"
+"用。下述滤镜可用：%s。"
+
+msgid "Change"
+msgstr "变更"
+
+msgid "Change %s"
+msgstr "修改 %s"
+
+msgid "Change Password"
+msgstr "修改密码"
+
+msgid "Change history: %s"
+msgstr "变更历史： %s"
+
+msgid "Change my language"
+msgstr "更改我的语言"
+
+msgid "Change my password"
+msgstr "更改密码"
+
+msgid "Change my timezone"
+msgstr "更改时区"
+
+msgid "Change password"
+msgstr "更改密码"
+
+msgid "Change password: %s"
+msgstr "修改密码： %s"
+
+msgid "Change set"
+msgstr "变更集"
+
+msgid "Change sets"
+msgstr "变更集"
+
+msgid "Change your account with this form."
+msgstr "在该表单中更改帐号。"
+
+msgid "Change:"
+msgstr "变更："
+
+msgid "Changed %(list)s for %(name)s \"%(object)s\"."
+msgstr "%(name)s \"%(object)s\" 变更列表 %(list)s 。"
+
+msgid "Changed %s."
+msgstr "%s 已变更。"
+
+msgid ""
+"Check this box if the comment is inappropriate. A \"This comment has been "
+"removed\" message will be displayed instead."
+msgstr "如果评论不适当请选择该项。以“评论已删除”取代。"
+
+msgid "Checkin"
+msgstr "登记"
+
+msgid "Choose a Username"
+msgstr "选择一个用户名"
+
+msgid "Choose new Default"
+msgstr "选择新的作为默认"
+
+msgid "Clear Search Terms"
+msgstr "清除搜索条件"
+
+msgid "Click this link to edit the object itself."
+msgstr "点击链接编辑对象本身。"
+
+msgid "Comma-separated integers"
+msgstr "逗号分隔的整数型"
+
+msgid "Comment"
+msgstr "评论"
+
+msgid "Comment moderation queue"
+msgstr "评论审核队列"
+
+msgid "Comments"
+msgstr "评论"
+
+msgid "Comments on This Photo:"
+msgstr "该照片的评论："
+
+msgid "Comments on This Post:"
+msgstr "评论该文章："
+
+msgid "Compose"
+msgstr "撰写"
+
+msgid "Compose Message"
+msgstr "撰写消息"
+
+msgid "Confirm"
+msgstr "确认 "
+
+msgid "Confirm Email"
+msgstr "确认邮件"
+
+msgid "Confirm deletion"
+msgstr "确认删除"
+
+msgid "Confirm password:"
+msgstr "确认密码："
+
+msgid "Confirmation email sent to %(email)s"
+msgstr "确认邮件已发送到 %(email)s"
+
+msgid "Conflict"
+msgstr "冲突"
+
+msgid "Contact"
+msgstr "联系"
+
+msgid "Contacts"
+msgstr "联系人"
+
+msgid "Content"
+msgstr "内容"
+
+msgid "Content Markup"
+msgstr "内容标记"
+
+msgid "Content Patch"
+msgstr "内容补丁"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Create Group"
+msgstr "创建群组"
+
+msgid "Create New Topic"
+msgstr "发表新主题"
+
+msgid "Create Project"
+msgstr "创建项目"
+
+msgid "Create Tribe"
+msgstr "创建圈子"
+
+msgid "Create a Group"
+msgstr "创建群组"
+
+msgid "Create a Project"
+msgstr "创建项目"
+
+msgid "Create a Tribe"
+msgstr "创建圈子"
+
+msgid "Create a new article"
+msgstr "创建新文章"
+
+msgid "Create an acccount on %(domain)s"
+msgstr "在 %(domain)s 中创建帐号"
+
+msgid "Create this article"
+msgstr "创建本文"
+
+msgid "Created"
+msgstr "创建日期"
+
+msgid "Created Tasks"
+msgstr "已创建的任务"
+
+msgid "Created:"
+msgstr "创建日期："
+
+msgid "Creates the message optionally for all users or a group of users."
+msgstr "创建消息为所有用户或者某组用户可选择的。"
+
+msgid "Creator"
+msgstr "创建人"
+
+msgid "Creator:"
+msgstr "创建者："
+
+msgid "Croatian"
+msgstr "克罗地亚语"
+
+msgid "Current Password"
+msgstr "当前密码"
+
+msgid "Current Revision"
+msgstr "当前版本"
+
+msgid "Current revision"
+msgstr "当前版本"
+
+msgid "Currently:"
+msgstr "当前："
+
+msgid "Czech"
+msgstr "捷克语"
+
+msgid "DMCA Notice"
+msgstr "DMCA 公告"
+
+msgid "Danish"
+msgstr "丹麦语"
+
+msgid "Database error"
+msgstr "数据库错误"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Date (with time)"
+msgstr "日期（带时间）"
+
+msgid "Date (without time)"
+msgstr "日期（不带时间）"
+
+msgid "Date posted"
+msgstr "发表日期"
+
+msgid "Date/time"
+msgstr "日期/时间"
+
+msgid "Date:"
+msgstr "日期："
+
+msgid "Dead"
+msgstr "已中止"
+
+msgid "Dec."
+msgstr "十二月"
+
+msgid "December"
+msgstr "十二月"
+
+msgid "Decimal number"
+msgstr "小数"
+
+msgid "Decline Association"
+msgstr "拒绝关联"
+
+msgid "Declined friendship request from %(from_user)s"
+msgstr "%(from_user)s 拒绝了您的好友请求"
+
+msgid "Default Avatar"
+msgstr "默认头像"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete Bookmark"
+msgstr "删除书签"
+
+msgid "Delete Group"
+msgstr "删除群组"
+
+msgid "Delete Password"
+msgstr "删除密码"
+
+msgid "Delete Photo"
+msgstr "删除照片"
+
+msgid "Delete Post"
+msgstr "删除文章"
+
+msgid "Delete Project"
+msgstr "删除项目"
+
+msgid "Delete These"
+msgstr "删除这些"
+
+msgid "Delete Topic"
+msgstr "删除主题"
+
+msgid "Delete Tribe"
+msgstr "删除圈子"
+
+msgid "Delete attachment"
+msgstr "删除附件"
+
+msgid "Delete project"
+msgstr "删除项目"
+
+msgid "Delete tribe"
+msgstr "删除圈子"
+
+msgid "Delete?"
+msgstr "删除吗？"
+
+msgid "Deleted %(name)s \"%(object)s\"."
+msgstr "%(name)s \"%(object)s\" 已删除。"
+
+msgid "Deleted Messages"
+msgstr "删除消息"
+
+msgid ""
+"Deleted Messages are removed from the trash at unregular intervals, don't "
+"rely on this feature for long-time storage."
+msgstr "垃圾箱将不定期地删除邮件，请不要在垃圾箱中长时间保存有用邮件。"
+
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
+"related objects, but your account doesn't have permission to delete the "
+"following types of objects:"
+msgstr ""
+"删除 %(object_name)s '%(escaped_object)s' 将会同时删除相关内容，但是您的帐号"
+"无权删除下列内容："
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Designates whether the user can log into this admin site."
+msgstr "指定用户是否可以登录这个网站的管理界面。"
+
+msgid ""
+"Designates whether this user should be treated as active. Unselect this "
+"instead of deleting accounts."
+msgstr "指定用户是否激活。取消选择，可以代替删除帐号。"
+
+msgid "Detail Markup"
+msgstr "详情标志"
+
+msgid "Digital Millennium Copyright Act Notice"
+msgstr "数字千年版权法案公告"
+
+msgid "Discussion Topics"
+msgstr "讨论区话题"
+
+msgid "Discussion Topics for %(group_name)s"
+msgstr "%(group_name)s 的讨论主题"
+
+msgid "Discussion of this Swap:"
+msgstr "该交易的相关讨论："
+
+msgid "Django administration"
+msgstr "Django 超级管理"
+
+msgid "Django site admin"
+msgstr "Django 后台管理"
+
+msgid "Django-tagging was not found, tags will be treated as plain text."
+msgstr "未找到Django-tagging，标签将被以普通文件对待。"
+
+msgid "Documentation"
+msgstr "文档"
+
+msgid "Documentation bookmarklets"
+msgstr "bookmarklets 文档"
+
+msgid "Documentation for this page"
+msgstr "本页文档"
+
+msgid ""
+"Don&rsquo;t like these avatars? You can <a href=\"%(avatar_delete_url)s"
+"\">choose which ones to delete</a>."
+msgstr ""
+"不喜欢这些头像了？您可以选择要 <a href=\"%(avatar_delete_url)s\">删除</a>的。"
+
+msgid "Don't have an account? <a href=\"%(signup_url)s\">Sign up</a>!"
+msgstr "没有帐号吗？立即 <a href=\"%(signup_url)s\">注册</a>！"
+
+msgid "Draft"
+msgstr "草稿"
+
+msgid "Dutch"
+msgstr "荷兰语"
+
+msgid "E-Mail Addresses"
+msgstr "电子邮箱"
+
+msgid "E-mail"
+msgstr "邮箱地址"
+
+msgid "E-mail address"
+msgstr "邮箱地址"
+
+msgid "E-mail address:"
+msgstr "邮箱地址："
+
+msgid "Each tag may be no more than %s characters long."
+msgstr "每个标签都不能长于 %s。"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit Article"
+msgstr "编辑文章"
+
+msgid "Edit Photo"
+msgstr "编辑照片"
+
+msgid "Edit Post"
+msgstr "编辑文章"
+
+msgid "Edit Profile"
+msgstr "编辑资料"
+
+msgid "Edit Topic"
+msgstr "编辑主题"
+
+msgid "Edit details"
+msgstr "编辑详情"
+
+msgid "Edit profile"
+msgstr "编辑资料"
+
+msgid "Edit this article"
+msgstr "编辑本文"
+
+msgid "Edit this object (current window)"
+msgstr "编辑该对象（在当前窗口中）"
+
+msgid "Edit this object (new window)"
+msgstr "编辑该对象（在新窗口中）"
+
+msgid "Editing Offer"
+msgstr "修改出价"
+
+msgid "Editing Photo Details"
+msgstr "编辑照片描述"
+
+msgid "Editing Post"
+msgstr "编辑文章"
+
+msgid "Editing article"
+msgstr "编辑文章"
+
+msgid "Editing history"
+msgstr "编辑历史"
+
+msgid "Editor"
+msgstr "编辑"
+
+msgid "Editor comment"
+msgstr "作者评论"
+
+msgid "Email"
+msgstr "邮件"
+
+msgid "Email (optional)"
+msgstr "邮件(可选)"
+
+msgid "Email Addresses"
+msgstr "电子邮箱"
+
+msgid "Email Confirmed"
+msgstr "邮件已确认"
+
+msgid "Email address"
+msgstr "邮件地址"
+
+msgid "Email address not verified for any user account"
+msgstr "邮件未使用为任何用户验证。"
+
+msgid "English"
+msgstr "英语"
+
+msgid "Ensure that there are no more than %s decimal places."
+msgstr "确认不多于 %s 位小数。"
+
+msgid "Ensure that there are no more than %s digits before the decimal point."
+msgstr "确认小数点之前不多于 %s 个数字。"
+
+msgid "Ensure that there are no more than %s digits in total."
+msgstr "确认不多于 %s 个数字。"
+
+msgid ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr "确认文件名最多 %(max)d 个字符 (现在为 %(length)d)。"
+
+msgid "Ensure this value has at least %(min)d characters (it has %(length)d)."
+msgstr "确认该项最少 %(min)d 个字符 (现在为 %(length)d)。"
+
+msgid "Ensure this value is greater than or equal to %s."
+msgstr "确认该项大于或等于 %s。"
+
+msgid "Ensure this value is less than or equal to %s."
+msgstr "确认该项小于或等于 %s。"
+
+msgid "Enter a 4 digit post code."
+msgstr "输入四位数字的邮编。"
+
+msgid "Enter a list of values."
+msgstr "输入值的列表。"
+
+msgid "Enter a new password for the user <strong>%(username)s</strong>."
+msgstr "请为用户 <strong>%(username)s</strong> 输入一个新的密码。"
+
+msgid "Enter a number."
+msgstr "输入一个数字。"
+
+msgid "Enter a postal code in the format NNNN or ANNNNAAA."
+msgstr "请输入邮编地址，格式： NNNN 或 ANNNNAAA。"
+
+msgid "Enter a postal code in the format XX-XXX."
+msgstr "输入邮编，如： XX-XXX。"
+
+msgid "Enter a postal code in the format XXX XXX."
+msgstr "输入邮编，如： XXX XXX。"
+
+msgid "Enter a postal code in the format XXXXX or XXX XX."
+msgstr "输入正确的邮编，如：XXXXX 或 XXX XX。"
+
+msgid "Enter a postal code in the format XXXXXXX or XXX-XXXX."
+msgstr "输入邮编，如： XXXXXXX 或 XXX-XXXX。"
+
+msgid ""
+"Enter a tax number field (NIP) in the format XXX-XXX-XX-XX or XX-XX-XXX-XXX."
+msgstr "输入税务号 (NIP)，如：XXX-XXX-XX-XX 或 XX-XX-XXX-XXX。"
+
+msgid "Enter a valid Austrian Social Security Number in XXXX XXXXXX format."
+msgstr "输入合法的奥地利社会安全号码，如：XXXX XXXXXX。"
+
+msgid "Enter a valid CIF."
+msgstr "输入有效的 CIF。"
+
+msgid "Enter a valid CNP."
+msgstr "输入有效的 CNP。"
+
+msgid "Enter a valid CUIT in XX-XXXXXXXX-X or XXXXXXXXXXXX format."
+msgstr "输入正确的 CUIT 格式，如：XX-XXXXXXXX-X 或 XXXXXXXXXXXX 。"
+
+msgid "Enter a valid Canadian Social Insurance number in XXX-XXX-XXX format."
+msgstr "输入正确的加拿大社会保险编号，如： XXX-XXX-XXX。"
+
+msgid "Enter a valid Chilean RUT."
+msgstr "输入正确的智利 RUT。"
+
+msgid "Enter a valid Chilean RUT. The format is XX.XXX.XXX-X."
+msgstr "输入正确的智利 RUT，如：XX.XXX.XXX-X。"
+
+msgid "Enter a valid Finnish social security number."
+msgstr "输入正确的芬兰社会安全码。"
+
+msgid ""
+"Enter a valid German identity card number in XXXXXXXXXXX-XXXXXXX-XXXXXXX-X "
+"format."
+msgstr "输入正确的德国身份证号码，如： XXXXXXXXXXX-XXXXXXX-XXXXXXX-X。"
+
+msgid "Enter a valid IBAN in ROXX-XXXX-XXXX-XXXX-XXXX-XXXX format"
+msgstr "输入正确的 IBAN，如： ROXX-XXXX-XXXX-XXXX-XXXX-XXXX。"
+
+msgid "Enter a valid IPv4 address."
+msgstr "输入正确的 IPv4 地址。"
+
+msgid ""
+"Enter a valid Icelandic identification number. The format is XXXXXX-XXXX."
+msgstr "输入正确的冰岛身份证号码，如： XXXXXX-XXXX。"
+
+msgid "Enter a valid Norwegian social security number."
+msgstr "输入正确的挪威社会安全码。"
+
+msgid "Enter a valid Social Security number."
+msgstr "输入正确的社会安全码。"
+
+msgid "Enter a valid South African ID number"
+msgstr "输入正确的南非身份证号码"
+
+msgid "Enter a valid South African postal code"
+msgstr "输入正确的南非邮编"
+
+msgid ""
+"Enter a valid Swiss identity or passport card number in X1234567<0 or "
+"1234567890 format."
+msgstr "输入正确的瑞士身份证或者护照号码，如： X1234567<0 或 1234567890。"
+
+msgid "Enter a valid U.S. Social Security number in XXX-XX-XXXX format."
+msgstr "输入正确的美国社会安全码，如：XXX-XX-XXXX。"
+
+msgid "Enter a valid URL."
+msgstr "输入正确的URL。"
+
+msgid "Enter a valid VAT number."
+msgstr "无效的 VAT 号码。"
+
+msgid "Enter a valid date in YYYY-MM-DD format."
+msgstr "输入正确的日期，如： YYYY-MM-DD。"
+
+msgid "Enter a valid date."
+msgstr "输入正确的日期。"
+
+msgid "Enter a valid date/time in YYYY-MM-DD HH:MM[:ss[.uuuuuu]] format."
+msgstr "输入下正确的日期/时间，如：YYYY-MM-DD HH:MM[:ss[.uuuuuu]]。"
+
+msgid "Enter a valid date/time."
+msgstr "输入正确的日期/时间。"
+
+msgid "Enter a valid e-mail address."
+msgstr "输入一个正确的邮箱地址。"
+
+msgid ""
+"Enter a valid phone number in one of the formats 6XXXXXXXX, 8XXXXXXXX or "
+"9XXXXXXXX."
+msgstr "输入正确的电话号码，如： 6XXXXXXXX, 8XXXXXXXX 或 9XXXXXXXX。"
+
+msgid "Enter a valid postal code in the format XXXXXX"
+msgstr "输入正确的邮编，如： XXXXXX。"
+
+msgid "Enter a valid time in HH:MM[:ss[.uuuuuu]] format."
+msgstr "输入正确的时间，如：HH:MM[:ss[.uuuuuu]]。"
+
+msgid "Enter a valid time."
+msgstr "输入正确的时间。"
+
+msgid "Enter a valid value."
+msgstr "输入正确的值。"
+
+msgid "Enter a valid zip code."
+msgstr "输入正确的邮编。"
+
+msgid "Enter a whole number."
+msgstr "输入一个整数。"
+
+msgid "Enter a zip code in the format XXXX."
+msgstr "输入邮编，如： XXXX。"
+
+msgid "Enter a zip code in the format XXXXX or XXXXX-XXXX."
+msgstr "输入正确的邮编，如：XXXXX 或 XXXXX-XXXX。"
+
+msgid "Enter a zip code in the format XXXXX-XXX."
+msgstr "输入邮编，如： XXXXX-XXX。"
+
+msgid "Enter a zip code in the format XXXXX."
+msgstr "输入邮编，如： XXXXX。"
+
+msgid "Enter a zip code in the format XXXXXXX."
+msgstr "输入邮编，如： XXXXXXX。"
+
+msgid "Enter new password"
+msgstr "输入新密码"
+
+msgid "Enter only digits separated by commas."
+msgstr "只允许破折号分隔的数字。"
+
+msgid "Enter the same password as above, for verification."
+msgstr "请重新输入上面的密码以验证。"
+
+msgid "Estonian"
+msgstr "爱沙尼亚语"
+
+msgid ""
+"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+msgstr "举例： '/about/contact/'。确认以斜线开头和结束。"
+
+msgid ""
+"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
+"will use 'flatpages/default.html'."
+msgstr ""
+"举例： 'flatpages/contact_page.html'。若该项为空，系统将使用 'flatpages/"
+"default.html'。"
+
+msgid "Example: 'flatpages/default.html'"
+msgstr "示例： 'flatpages/default.html'"
+
+msgid "Feb."
+msgstr "二月"
+
+msgid "February"
+msgstr "二月"
+
+msgid "Fields on %s objects"
+msgstr "对象 %s 的字段"
+
+msgid "File path"
+msgstr "文件路径"
+
+msgid "Filter"
+msgstr "过滤"
+
+msgid "Finnish"
+msgstr "芬兰语"
+
+msgid ""
+"First, enter a username and password. Then, you'll be able to edit more user "
+"options."
+msgstr "先输入用户名和密码，然后您将可以编辑更多用户选项。"
+
+msgid "Flag"
+msgstr "标记"
+
+msgid "Flag as inappropriate"
+msgstr "不恰当的标记"
+
+msgid "Flag this comment"
+msgstr "标记该评论"
+
+msgid "Flip left to right"
+msgstr "从左翻转到右"
+
+msgid "Flip top to bottom"
+msgstr "从顶翻转到底"
+
+msgid "Floating point number"
+msgstr "浮点数"
+
+msgid "Followers"
+msgstr "围观者"
+
+msgid "Followers of %(other_user)s"
+msgstr "围观 %(other_user)s 的人"
+
+msgid ""
+"Followers of <a href=\"%(other_user_url)s\">%(other_user)s</a>'s tweets:"
+msgstr "围观 <a href=\"%(other_user_url)s\">%(other_user)s</a>'s 微博的人："
+
+msgid "Following"
+msgstr "在围观"
+
+msgid "Forgot password?"
+msgstr "忘记密码？"
+
+msgid ""
+"Forgotten your password? Enter your e-mail address below, and we'll e-mail "
+"instructions for setting a new one."
+msgstr "忘记密码了？在下面输入邮箱地址，我们将会给您发送新密码设置指示邮件。"
+
+msgid ""
+"Forgotten your password? Enter your e-mail address below, and we'll send you "
+"an e-mail allowing you to reset it."
+msgstr "忘记密码了吗？在下面输入您的邮箱地址，密码重置信将发送到您的邮箱中。"
+
+msgid "French"
+msgstr "法语"
+
+msgid "Fri"
+msgstr "周五"
+
+msgid "Friday"
+msgstr "周五"
+
+msgid "Friend Posted to Blog"
+msgstr "好友博客文章"
+
+msgid "Friend Updated Avatar"
+msgstr "好友已更新头像"
+
+msgid "Friends Checkins"
+msgstr "好友的提交"
+
+msgid "Friends' Blogs"
+msgstr "好友的博客"
+
+msgid "Friends' Bookmarks"
+msgstr "好友的书签"
+
+msgid "Friends' Photos"
+msgstr "好友照片"
+
+msgid "Friends' Tweets"
+msgstr "好友的微博"
+
+msgid "Friendship Requests Received"
+msgstr "收到加为好友请求"
+
+msgid "Friendship Requests Sent"
+msgstr "发送好友请求"
+
+msgid "Friendship request sent."
+msgstr "已发送好友请求。"
+
+msgid "Galician"
+msgstr "加利西亚语"
+
+msgid "Georgian"
+msgstr "格鲁吉亚语"
+
+msgid "German"
+msgstr "德语"
+
+msgid "Get Embed Code"
+msgstr "获取嵌入码"
+
+msgid "Greek"
+msgstr "希腊语"
+
+msgid "Group"
+msgstr "群组"
+
+msgid "Group by"
+msgstr "分组"
+
+msgid "Groups"
+msgstr "群组"
+
+msgid "Hebrew"
+msgstr "希伯来语"
+
+msgid ""
+"Hello %(recipient)s,\n"
+"\n"
+"you received a private message from %(sender)s with\n"
+"the following contents:"
+msgstr ""
+"%(recipient)s 您好：\n"
+"\n"
+"您从 %(sender)s 接收到私人消息\n"
+"内容如下："
+
+msgid "Here is a single tweet from %(tweet.sender.username)s:"
+msgstr "一个微博来自 %(tweet.sender.username)s："
+
+msgid "Here is your current avatar:"
+msgstr "您当前的头像："
+
+msgid "Hide announcement"
+msgstr "隐藏公告"
+
+msgid "High"
+msgstr "高"
+
+msgid "Hindi"
+msgstr "北印度语"
+
+msgid "History"
+msgstr "历史"
+
+msgid "History for"
+msgstr "历史"
+
+msgid "History for article"
+msgstr "文章历史"
+
+msgid "History of this Task"
+msgstr "任务历史"
+
+msgid ""
+"Hold down \"Control\", or \"Command\" on a Mac, to select more than one."
+msgstr "按住Mac上的 \"Control\" 或 \"Command\" 键选择多个。"
+
+msgid "Home"
+msgstr "主页"
+
+msgid "Hungarian"
+msgstr "匈牙利语"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IP Address"
+msgstr "IP地址"
+
+msgid "IP Address of the Article Creator"
+msgstr "文章作者的 IP 地址"
+
+msgid "IP Address of the Editor"
+msgstr "编辑的 IP 地址"
+
+msgid "IP Address of the Post Creator"
+msgstr "文章发布者的IP地址"
+
+msgid "IP address"
+msgstr "IP 地址"
+
+msgid "Icelandic"
+msgstr "冰岛语"
+
+msgid "If checked you will stay logged in for 3 weeks"
+msgstr "若选中可在三周内自动登陆"
+
+msgid ""
+"If height is set to \"0\" the image will be scaled to the supplied width"
+msgstr "如果高度设为 \"0\" 图像将会按提供的宽度缩放。"
+
+msgid ""
+"If selected the image will be scaled and cropped to fit the supplied "
+"dimensions."
+msgstr "若选中则图像将会被缩放并且裁剪到提供的尺寸。"
+
+msgid ""
+"If selected the image will be scaled up if necessary to fit the supplied "
+"dimensions. Cropped sizes will be upscaled regardless of this setting."
+msgstr ""
+"若选中则在需要的情况下图像会被放大到指定尺寸。裁剪尺寸若选中则会忽略该项设"
+"置。"
+
+msgid ""
+"If selected the image's \"view_count\" will be incremented when this photo "
+"size is displayed."
+msgstr ""
+"If selected the image's \"view_count\" will be incremented when this photo "
+"size is displayed."
+
+msgid "If selected this photo size will be pre-cached as photos are added."
+msgstr "若选中则该图像的大小将被设置为所有添加图像的大小。"
+
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr "若选择该项，只有登陆用户才能看到该页。"
+
+msgid ""
+"If width is set to \"0\" the image will be scaled to the supplied height."
+msgstr "如果宽度设为 \"0\" 图像将会按提供的高度缩放。"
+
+msgid ""
+"If you enter anything in this field your comment will be treated as spam"
+msgstr "若该项有内容，您的评论将被认为是垃圾信息"
+
+msgid ""
+"If you have any trouble creating your account, contact us at <a href="
+"\"mailto:%(CONTACT_EMAIL)s\">%(CONTACT_EMAIL)s</a>."
+msgstr ""
+"若不能创建帐号，请与我们联系 <a href=\"mailto:%(CONTACT_EMAIL)s\">"
+"%(CONTACT_EMAIL)s</a>。"
+
+msgid ""
+"If you have any trouble logging in to your account, contact us at <a href="
+"\"mailto:%(CONTACT_EMAIL)s\">%(CONTACT_EMAIL)s</a>."
+msgstr ""
+"若您的帐号不能正常登陆，请联系我们 <a href=\"mailto:%(CONTACT_EMAIL)s\">"
+"%(CONTACT_EMAIL)s</a>。"
+
+msgid ""
+"If you have any trouble resetting your password, contact us at <a href="
+"\"mailto:%(CONTACT_EMAIL)s\">%(CONTACT_EMAIL)s</a>."
+msgstr ""
+"若不能重置密码，请与我们联系 <a href=\"mailto:%(CONTACT_EMAIL)s\">"
+"%(CONTACT_EMAIL)s</a>。"
+
+msgid ""
+"If you'd like to invite someone to join Pinax, you can enter their email "
+"address and a message for them below:"
+msgstr "若要邀请朋友加入Pinax，可以在下面输入他的电子邮箱和邀请词："
+
+msgid ""
+"Image filename contains an invalid character: '#'. Please remove the "
+"character and try again."
+msgstr "图像文件名包含了非法字符：“#”，请移除该字符后重试。"
+
+msgid "Import Google Contacts"
+msgstr "导入 Google 联系人"
+
+msgid "Import Yahoo Address Book"
+msgstr "导入雅虎地址薄"
+
+msgid "Important dates"
+msgstr "重要日期"
+
+msgid ""
+"In addition to the permissions manually assigned, this user will also get "
+"all permissions granted to each group he/she is in."
+msgstr "除了手工指定的授权之外，该用户还拥有他/她所在组的所有权限。"
+
+msgid "Inbox"
+msgstr "收件箱"
+
+msgid "Incorrect Code"
+msgstr "错误的邀请码"
+
+msgid "Integer"
+msgstr "整数型"
+
+msgid "Invalid CNPJ number."
+msgstr "无效的 CNPJ 号码。"
+
+msgid "Invalid CPF number."
+msgstr "无效的 CPF 号码。"
+
+msgid "Invalid CUIT."
+msgstr "非法的 CUIT。"
+
+msgid "Invalid checksum for CIF."
+msgstr "无效的 CIF 校验。"
+
+msgid "Invalid checksum for NIE."
+msgstr "无效的 NIE 校验。"
+
+msgid "Invalid checksum for NIF."
+msgstr "无效的 NIF 校验。"
+
+msgid "Invalid checksum for bank account number."
+msgstr "无效的银行帐号校验。"
+
+msgid "Invalid confirmation key."
+msgstr "非法的确认码。"
+
+msgid "Invalid date: %s"
+msgstr "无效的日期： %s"
+
+msgid "Invalid geometry type."
+msgstr "非法的地理信息类型。"
+
+msgid "Invalid geometry value."
+msgstr "非法的地理信息。"
+
+msgid "Invitation Received"
+msgstr "收到邀请"
+
+msgid "Invitation Sent"
+msgstr "邀请已发送"
+
+msgid "Invitations"
+msgstr "邀请"
+
+msgid ""
+"Invite a user given an e-mail address. The user will be e-mailed a signup "
+"code to create their account on this website."
+msgstr "通过邮箱邀请用户，该用户将收到邀请码的邮件。"
+
+msgid "Invite someone new to join"
+msgstr "邀请别人加入"
+
+msgid "Invite user"
+msgstr "邀请用户"
+
+msgid "Irish"
+msgstr "爱尔兰语"
+
+msgid "Is removed?"
+msgstr "已删除了吗？"
+
+msgid "It is up to the creator of this project"
+msgstr "项目创建者决定"
+
+msgid "Italian"
+msgstr "意大利语"
+
+msgid "JPEG image quality."
+msgstr "JPEG 画质。"
+
+msgid "Jan."
+msgstr "一月"
+
+msgid "January"
+msgstr "一月"
+
+msgid "Japanese"
+msgstr "日语"
+
+msgid "Join Invitation Accepted"
+msgstr "加入邀请被接受"
+
+msgid "Join Requests Sent"
+msgstr "发送加入请求"
+
+msgid "July"
+msgstr "七月"
+
+msgid "June"
+msgstr "六月"
+
+msgid "Kannada"
+msgstr "埃纳德语"
+
+msgid "Khmer"
+msgstr "谷美尔语"
+
+msgid "Korean"
+msgstr "韩语"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Language successfully updated."
+msgstr "语言更新成功。"
+
+msgid "Last Modified"
+msgstr "最后更新"
+
+msgid "Latest Photos"
+msgstr "最新照片"
+
+msgid "Latest comments on %(site_name)s"
+msgstr "%(site_name)s 最新评论"
+
+msgid "Latvian"
+msgstr "拉脱维亚语"
+
+msgid "latitude"
+msgstr "经度"
+
+msgid "longitude"
+msgstr "纬度"
+
+msgid "scale"
+msgstr "显示比例"
+
+msgid ""
+"Leaving this empty causes Django to look for a template with the given name "
+"and populate this field with its content."
+msgstr "该项为空将导致系统查找给定的模板名称，并且显示出该项的内容。"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Let's be friends!"
+msgstr "交个朋友吧！"
+
+msgid ""
+"Link to the snippet: http://%(domain)s%(link)s\n"
+"\n"
+msgstr ""
+"摘录链接： http://%(domain)s%(link)s\n"
+"\n"
+
+msgid "List all articles"
+msgstr "列出所有文章"
+
+msgid "Lithuanian"
+msgstr "立陶宛语"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Location not found, Try something else."
+msgstr "位置未发现，请尝试其它。"
+
+msgid "Locations"
+msgstr "位置"
+
+msgid "Log In"
+msgstr "登陆"
+
+msgid "Log in"
+msgstr "登陆"
+
+msgid "Log in again"
+msgstr "重新登陆"
+
+msgid "Log in with OpenID"
+msgstr "用 OpenID 帐号登陆"
+
+msgid "Log in with your username and password:"
+msgstr "输入用户名和密码登陆："
+
+msgid "Log out"
+msgstr "注册"
+
+msgid "Logged in with OpenID"
+msgstr "使用 OpenID 登陆"
+
+msgid "Logged out"
+msgstr "注销"
+
+msgid "Login"
+msgstr "登陆"
+
+msgid "Logout"
+msgstr "注册"
+
+msgid ""
+"Looks like your browser isn't configured to accept cookies. Please enable "
+"cookies, reload this page, and try again."
+msgstr "您的浏览器好像配置为可接收 cookie。请允许接收 cookie，刷新本页重试。"
+
+msgid "Lookup"
+msgstr "查找"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Lower Austria"
+msgstr "下奥地利州"
+
+msgid "Macedonian"
+msgstr "马其顿语"
+
+msgid "Make an Offer"
+msgstr "发起一个交易"
+
+msgid "Manage OpenID Associations"
+msgstr "管理 OpenID 关联"
+
+msgid "March"
+msgstr "三月"
+
+msgid "Mark all unseen notices seen"
+msgstr "将所有不可见的公告设为可见"
+
+msgid "Markup:"
+msgstr "标志："
+
+msgid "May"
+msgstr "五月"
+
+msgid "Medium"
+msgstr "中等"
+
+msgid "Medium-High"
+msgstr "较高"
+
+msgid "Medium-Low"
+msgstr "较低"
+
+msgid "Members"
+msgstr "成员"
+
+msgid "Members:"
+msgstr "成员："
+
+msgid "Message"
+msgstr "消息"
+
+msgid "Message Deleted"
+msgstr "消息已删除"
+
+msgid "Message Received"
+msgstr "收到消息"
+
+msgid "Message Recovered"
+msgstr "消息已恢复"
+
+msgid "Message Replied"
+msgstr "消息已回复"
+
+msgid "Message Sent"
+msgstr "消息已发送"
+
+msgid "Message successfully deleted."
+msgstr "消息删除成功。"
+
+msgid "Message successfully recovered."
+msgstr "消息恢复成功。"
+
+msgid "Message successfully sent."
+msgstr "消息发送成功。"
+
+msgid "Messages"
+msgstr "消息"
+
+msgid "Metadata"
+msgstr "元数据"
+
+msgid "Model %(model_name)r not found in app %(app_label)r"
+msgstr "在应用 %(app_label)r 中未发现模型 %(model_name)r"
+
+msgid "Models available in the %(name)s application."
+msgstr "模型在 %(name)s 应用中可用。"
+
+msgid "Modified"
+msgstr "已修改"
+
+msgid "Modified at"
+msgstr "编辑日期"
+
+msgid "Modifier"
+msgstr "修改者"
+
+msgid "Mon"
+msgstr "周一"
+
+msgid "Monday"
+msgstr "周一"
+
+msgid "Multiple tags were given."
+msgstr "多个标签被指定。"
+
+msgid "Multiple tags were given: \"%s\"."
+msgstr "指定了多个标签： \"%s\"。"
+
+msgid "My Actions"
+msgstr "我的操作"
+
+msgid "Name"
+msgstr "名称 "
+
+msgid "National Business Register Number (REGON) consists of 9 or 14 digits."
+msgstr "全国商业登记号码 (REGON) 由9位或者14位数字组成。"
+
+msgid "National Identification Number consists of 11 digits."
+msgstr "全国身份证号码由11位数字构成。"
+
+msgid "Nearby Checkins"
+msgstr "邻近提交"
+
+msgid "New Comment on Blog Post"
+msgstr "博客文章新的评论"
+
+msgid "New Group Created"
+msgstr "新群组已创建"
+
+msgid "New Group Member"
+msgstr "新群组成员"
+
+msgid "New Member Of Group You Created"
+msgstr "您所创建的群组有新成员"
+
+msgid "New Member Of Project You Created"
+msgstr "您所创建项目的新成员"
+
+msgid "New Member Of Tribe You Created"
+msgstr "您所创建的圈子新成员"
+
+msgid "New Message"
+msgstr "新消息"
+
+msgid "New Message: %(subject)s"
+msgstr "新消息： %(subject)s"
+
+msgid "New Password"
+msgstr "新密码"
+
+msgid "New Password (again)"
+msgstr "新密码(确认)"
+
+msgid "New Project Created"
+msgstr "新创建的项目"
+
+msgid "New Project Member"
+msgstr "新项目成员"
+
+msgid "New Task"
+msgstr "新任务"
+
+msgid "New Topic"
+msgstr "新主题"
+
+msgid "New Tribe Created"
+msgstr "新圈子已创建"
+
+msgid "New Tribe Member"
+msgstr "圈子新成员"
+
+msgid "New Tweet Follower"
+msgstr "新微博围观者"
+
+msgid "New Tweet Reply"
+msgstr "新微博回复"
+
+msgid "New password"
+msgstr "新密码"
+
+msgid "New password confirmation"
+msgstr "新密码确认"
+
+msgid "New password:"
+msgstr "新密码："
+
+msgid "No"
+msgstr "否"
+
+msgid "No Tag found matching \"%s\"."
+msgstr "没有标签匹配 \"%s\"。"
+
+msgid "No accepted swaps yet."
+msgstr "无同意的交易。"
+
+msgid "No blog posts yet."
+msgstr "没有文章。"
+
+msgid "No bookmarks yet."
+msgstr "没有书签。"
+
+msgid "No changes in this article"
+msgstr "该文章无变更"
+
+msgid "No comments to moderate"
+msgstr "没有评论"
+
+msgid "No contacts."
+msgstr "没有联系人。"
+
+msgid "No dead swaps yet."
+msgstr "无交易。"
+
+msgid "No fields changed."
+msgstr "没有字段变更。"
+
+msgid "No file was submitted."
+msgstr "文件没有被提交。"
+
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr "文件没有被提交。请检查表单编码类型。"
+
+msgid "No followers."
+msgstr "没人围观。"
+
+msgid "No friendship requests received."
+msgstr "没有收到加为好友请求"
+
+msgid "No friendship requests sent."
+msgstr "没有发送好友请求。"
+
+msgid "No geometry value provided."
+msgstr "未提供地理信息。"
+
+msgid "No join requests sent."
+msgstr "没有加入请求发送。"
+
+msgid "No notices."
+msgstr "没有公告。"
+
+msgid "No photos uploaded yet."
+msgstr "无照片上传过。"
+
+msgid "No photos were found."
+msgstr "没有照片。"
+
+msgid "No profile were found."
+msgstr "无资料。"
+
+msgid "No tags were given: \"%s\"."
+msgstr "未指定标签： \"%s\"。"
+
+msgid "No tweets yet."
+msgstr "没有微博。"
+
+msgid "No wiki articles yet."
+msgstr "无维基文章。"
+
+msgid "None"
+msgstr "无"
+
+msgid "None available"
+msgstr "无任何可用"
+
+msgid "None yet. <a href=\"%(new_topic_url)s\">Start one...</a>"
+msgstr "无。 <a href=\"%(new_topic_url)s\">我想吃螃蟹……</a>"
+
+msgid ""
+"None. You should look at the list of <a href=\"/profiles/\">profiles</a> and "
+"see if there's anyone you know."
+msgstr ""
+"无。您可以查看 <a href=\"/profiles/\">资料</a> 列表，看看列表中有没有熟悉的"
+"人。"
+
+msgid "Norwegian"
+msgstr "挪威语"
+
+msgid "Not Found"
+msgstr "没发现"
+
+msgid "Not Safe"
+msgstr "非安全的"
+
+msgid "Not following anyone."
+msgstr "没有围观任何人。"
+
+msgid "Not yet a member of any tribes."
+msgstr "没加入任何圈子。"
+
+msgid "Note"
+msgstr "注意"
+
+msgid "Notice"
+msgstr "提醒"
+
+msgid "Notices"
+msgstr "通知"
+
+msgid "Notification Type"
+msgstr "提醒种类"
+
+msgid "Nov."
+msgstr "十一月"
+
+msgid "November"
+msgstr "十一月"
+
+msgid ""
+"Now that you have logged in with your OpenID, we need you to choose a "
+"username for this site."
+msgstr "您现在以 OpenID 登陆，需要您选择一个在本站使用的用户名称。"
+
+msgid "Observe Article"
+msgstr "阅读文章"
+
+msgid "Observed Article Changed"
+msgstr "阅读的文章已改变"
+
+msgid "Oct."
+msgstr "十月"
+
+msgid "October"
+msgstr "十月"
+
+msgid "Offer"
+msgstr "交易"
+
+msgid "Offered By"
+msgstr "提供人"
+
+msgid "Old Title"
+msgstr "旧标题"
+
+msgid "Old password"
+msgstr "旧密码"
+
+msgid "Old password:"
+msgstr "原密码："
+
+msgid "One or more %(fieldname)s in %(name)s:"
+msgstr "一个或多个 %(fieldname)s 在 %(name)s 中："
+
+msgid "One or more %(fieldname)s in %(name)s: %(obj)s"
+msgstr "一个或多个 %(fieldname)s 在 %(name)s 中： %(obj)s"
+
+msgid "Open Assigned Tasks"
+msgstr "打开已分配的任务"
+
+msgid "Open Offers"
+msgstr "发起交易"
+
+msgid "OpenID Associations"
+msgstr "OpenID 关联"
+
+msgid "OpenID Identifier"
+msgstr "OpenID 标识符"
+
+msgid "OpenID:"
+msgstr "OpenID帐号："
+
+msgid "Or sign in with your OpenID"
+msgstr "或者用 OpenID 注册"
+
+msgid "Or use your OpenID:"
+msgstr "或者使用 OpenID："
+
+msgid "Order"
+msgstr "顺序"
+
+msgid "Order by:"
+msgstr "排序："
+
+msgid "Other Connection"
+msgstr "其它关系"
+
+msgid "Other Service Info Key"
+msgstr "其它服务信息键"
+
+msgid "Other Service Info Value"
+msgstr "其它服务信息值"
+
+msgid "Other Services"
+msgstr "其它服务"
+
+msgid "Owner"
+msgstr "所有者"
+
+msgid "PM"
+msgstr "下午"
+
+msgid "Page not found"
+msgstr "页面未找到"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Password (again)"
+msgstr "密码(确认)"
+
+msgid "Password Deleted"
+msgstr "密码已删除"
+
+msgid "Password Reset"
+msgstr "密码重置"
+
+msgid "Password change"
+msgstr "密码变更"
+
+msgid "Password change successful"
+msgstr "密码变更成功"
+
+msgid "Password changed successfully."
+msgstr "密码修改成功。"
+
+msgid "Password confirmation"
+msgstr "密码确认"
+
+msgid "Password reset"
+msgstr "密码重置"
+
+msgid "Password reset complete"
+msgstr "密码重置完成"
+
+msgid "Password reset confirmation"
+msgstr "密码重置确认"
+
+msgid "Password reset email sent"
+msgstr "密码重置邮件已发送"
+
+msgid "Password reset on %s"
+msgstr "密码重置 %s"
+
+msgid "Password reset successful"
+msgstr "密码重置成功。"
+
+msgid "Password reset unsuccessful"
+msgstr "密码重置失败"
+
+msgid "Password successfully changed."
+msgstr "密码更改成功。"
+
+msgid "Password successfully set."
+msgstr "密码设置成功。"
+
+msgid "Password:"
+msgstr "密码："
+
+msgid "Past 7 days"
+msgstr "过去一周"
+
+msgid "Permissions"
+msgstr "授权"
+
+msgid "Persian"
+msgstr "波斯语"
+
+msgid "Personal info"
+msgstr "个人信息"
+
+msgid "Phone number"
+msgstr "电话号码"
+
+msgid "Phone numbers must be in XX-XXXX-XXXX format."
+msgstr "电话号码格式必须为：XX-XXXX-XXXX format。"
+
+msgid "Phone numbers must be in XXXX-XXXXXX format."
+msgstr "电话号码必须为 XXXX-XXXXXX。"
+
+msgid "Photo Details"
+msgstr "照片描述"
+
+msgid ""
+"Photo size name should contain only letters, numbers and underscores. "
+"Examples: \"thumbnail\", \"display\", \"small\", \"main_page_widget\"."
+msgstr ""
+"图像大小名称只能包含字母、数字以及下划线。比如：\"thumbnail\", \"display\", "
+"\"small\", \"main_page_widget\"."
+
+msgid "Photos"
+msgstr "相册"
+
+msgid "Photos from "
+msgstr "照片来自"
+
+msgid "Pinax can be used in your preferred language."
+msgstr "Pinax 可以使用您喜欢的语言。"
+
+msgid ""
+"Pinax can localize all times into your preferred timezone. Change your "
+"timezone below."
+msgstr "Pinax 可以使用到您期望的时区，请在下面更改您的时区。"
+
+msgid "Plain Text."
+msgstr "富文本。"
+
+msgid ""
+"Please <a href=\"%(acct_login_url)s\">Login</a> (or <a href=\"%(url "
+"acct_signup)s\">Sign Up</a>) to leave a comment"
+msgstr ""
+"<a href=\"%(acct_login_url)s\">登陆</a> (或 <a href=\"%(url acct_signup)s\">"
+"注册</a>) 才能发表评论"
+
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr "请纠正 %(field)s 的重复数据，它必须唯一。"
+
+msgid "Please correct the duplicate data for %(field)s."
+msgstr "请纠正 %(field)s 的重复数据。"
+
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+"请纠正 %(field_name)s 的重复数据，它必须唯一，为了 %(lookup)s 在 "
+"%(date_field)s 中。"
+
+msgid "Please correct the duplicate values below."
+msgstr "请纠正下列重复的值。"
+
+msgid "Please correct the errors below:"
+msgstr "请修正下列错误："
+
+msgid ""
+"Please enter a correct username and password. Note that both fields are case-"
+"sensitive."
+msgstr "请输入正确的用户名和密码。请注意区分大小写。"
+
+msgid "Please enter a valid NIF or NIE."
+msgstr "输入正确的 NIF 或 NIE。"
+
+msgid "Please enter a valid NIF, NIE, or CIF."
+msgstr "输入正确的 NIF、NIE 或 CIF。"
+
+msgid ""
+"Please enter a valid bank account number in format XXXX-XXXX-XX-XXXXXXXXXX."
+msgstr "请输入正确的银行帐号，如： XXXX-XXXX-XX-XXXXXXXXXX。"
+
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr "请输入两遍新密码，以确认没有输入错误。"
+
+msgid ""
+"Please enter your old password, for security's sake, and then enter your new "
+"password twice so we can verify you typed it in correctly."
+msgstr ""
+"为了安全起见，请输入原密码，并且输入两遍新密码以便我们确认没有输入错误。"
+
+msgid "Please go to the following page and choose a new password:"
+msgstr "请转到下面的页面，输入新密码："
+
+msgid "Please log in again, because your session has expired."
+msgstr "Session已过期，请重新登陆。"
+
+msgid "Please specify at least one allowed or dissallowed URL."
+msgstr "需要至少指定一个允许或禁止的 URL。"
+
+msgid "Please type your current password."
+msgstr "请输入当前密码"
+
+msgid "Please select the area you are interested:"
+msgstr "请选定你关注的地理范围:"
+
+msgid "Polish"
+msgstr "波兰语"
+
+msgid "Portuguese"
+msgstr "葡萄牙语"
+
+msgid "Post"
+msgstr "发表"
+
+msgid "Post Content Markup"
+msgstr "发布内容标记"
+
+msgid "Post Response"
+msgstr "文章反馈"
+
+msgid "Post your comment"
+msgstr "发表评论"
+
+msgid ""
+"Posted by %(user)s at %(date)s\n"
+"\n"
+"%(comment)s\n"
+"\n"
+"http://%(domain)s%(url)s"
+msgstr ""
+"%(user)s 于 %(date)s 说\n"
+"\n"
+"%(comment)s\n"
+"\n"
+"http://%(domain)s%(url)s"
+
+msgid "Posted by:"
+msgstr "发布人："
+
+msgid "Posted:"
+msgstr "已发表的："
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Preview your comment"
+msgstr "预览评论"
+
+msgid "Prices"
+msgstr "价格"
+
+msgid "Primary email"
+msgstr "主要邮箱"
+
+msgid "Privacy Policy"
+msgstr "隐私策略"
+
+msgid "Private"
+msgstr "私有"
+
+msgid "Products"
+msgstr "产品"
+
+msgid "Profile"
+msgstr "个人资料"
+
+msgid "Profile for %(other_user)s"
+msgstr "%(other_user)s 的资料"
+
+msgid "Profile for <span class=\"fn nickname\">%(other_user)s</span>"
+msgstr "<span class=\"fn nickname\">%(other_user)s</span> 资料"
+
+msgid "Profile for <span class=\"nickname\">%(other_user)s</span>"
+msgstr "<span class=\"nickname\">%(other_user)s</span> 的资料"
+
+msgid "Profiles"
+msgstr "个人资料"
+
+msgid "Project"
+msgstr "项目"
+
+msgid "Project %(project_name)s deleted."
+msgstr "删除 %(project_name)s 项目。"
+
+msgid "Projects"
+msgstr "项目"
+
+msgid "Proposed by you"
+msgstr "您的出价"
+
+msgid "Proposed to you"
+msgstr "给您的出价"
+
+msgid "Proposing Offer"
+msgstr "出价"
+
+msgid "Public"
+msgstr "公开"
+
+msgid "Public Tweets"
+msgstr "发布微博"
+
+msgid "Public galleries will be displayed in the default views."
+msgstr "公开的相册将会在默认视图中显示。"
+
+msgid "Public photographs will be displayed in the default views."
+msgstr "公开的照片将会在默认视图中显示。"
+
+msgid "Publish to Twitter?"
+msgstr "发布到 Twitter 吗？"
+
+msgid "Published"
+msgstr "已发布的"
+
+msgid "Published On"
+msgstr "发布日期"
+
+msgid "Really flag this comment?"
+msgstr "确认标记该评论吗？"
+
+msgid "Really make this comment public?"
+msgstr "确认公开该评论吗？"
+
+msgid "Really remove this comment?"
+msgstr "确认删除该评论吗？"
+
+msgid "Received"
+msgstr "已接收"
+
+msgid "Recent Actions"
+msgstr "最近操作"
+
+msgid "Recent Changes"
+msgstr "最近更新"
+
+msgid "Recipient"
+msgstr "收件人"
+
+msgid "Recipient deleted at"
+msgstr "回复人删除日期"
+
+msgid "Reject"
+msgstr "拒绝"
+
+msgid "Relation to parent model"
+msgstr "父模型的引用"
+
+msgid "Remember Me"
+msgstr "自动登陆"
+
+msgid "Remove"
+msgstr "删除"
+
+msgid "Remove a comment"
+msgstr "删除评论"
+
+msgid "Remove article"
+msgstr "删除文章"
+
+msgid "Remove association"
+msgstr "移除关联"
+
+msgid "Remove this article"
+msgstr "删除该文章"
+
+msgid "Removed email address %(email)s"
+msgstr "一封邮件已经发送至 %(email)s，请查收。"
+
+msgid "Removed twitter account information successfully."
+msgstr "移除twiter帐号信息成功。"
+
+msgid "Reply"
+msgstr "回复"
+
+msgid "Reply Received"
+msgstr "收到回复"
+
+msgid "Reply to This Post"
+msgstr "回复该文章"
+
+msgid "Required fields"
+msgstr "必须字段"
+
+msgid ""
+"Required. 30 characters or fewer. Alphanumeric characters only (letters, "
+"digits and underscores)."
+msgstr "必须。30个字符或者更少。允许的字符：字母、数字、下划线。"
+
+msgid "Reset my password"
+msgstr "重置密码"
+
+msgid "Responding Offer"
+msgstr "还价"
+
+msgid "Restricted Access"
+msgstr "限制访问"
+
+msgid "Revert"
+msgstr "回滚"
+
+msgid "Revert to..."
+msgstr "回滚到……"
+
+msgid "Reverted Revision"
+msgstr "已经回滚版本"
+
+msgid "Revision Number"
+msgstr "版本号"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Romanian"
+msgstr "罗马尼亚语"
+
+msgid "Rooms"
+msgstr "房间"
+
+msgid "Rotate 180 degrees"
+msgstr "旋转180度"
+
+msgid "Rotate 90 degrees clockwise"
+msgstr "顺时针旋转90度"
+
+msgid "Rotate 90 degrees counter-clockwise"
+msgstr "逆时针旋转90度"
+
+msgid "Russian"
+msgstr "俄语"
+
+msgid "Safe"
+msgstr "安全的"
+
+msgid "Salzburg"
+msgstr "萨尔茨堡"
+
+msgid "Sat"
+msgstr "周六"
+
+msgid "Saturday"
+msgstr "周六"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save Article"
+msgstr "保存文章"
+
+msgid "Save and add another"
+msgstr "保存并添加新对象"
+
+msgid "Save and continue editing"
+msgstr "保存并继续编辑"
+
+msgid "Save as new"
+msgstr "存为新对象"
+
+msgid "Scale"
+msgstr "缩放"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Select %s"
+msgstr "选择 %s"
+
+msgid "Select %s to change"
+msgstr "选择 %s 以变更"
+
+msgid "Select a .zip file of images to upload into a new Gallery."
+msgstr "选择一个包含多个图像文件的.zip压缩文件，上传至新相册中。"
+
+msgid "Select a different avatar:"
+msgstr "选择另一个头像："
+
+msgid ""
+"Select a gallery to add these images to. leave this empty to create a new "
+"gallery from the supplied title."
+msgstr "选择一个相册存放这些照片。若要创建一个新的相册，则该项留空。"
+
+msgid ""
+"Select a valid brazilian state. That state is not one of the available "
+"states."
+msgstr "州无效，选择正确的巴西的州。"
+
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr "选择正确的项。%(value)s 不是一个正确的选项。"
+
+msgid "Select a valid choice. %s is not one of the available choices."
+msgstr "选择正确的项。%s 不在正确的选项中。"
+
+msgid "Select a valid choice. That choice is not one of the available choices."
+msgstr "选择正确的项。所选不在正确的选项中。"
+
+msgid "Select which avatars to delete:"
+msgstr "选择要删除的头像："
+
+msgid "Send"
+msgstr "发送"
+
+msgid "Send a message"
+msgstr "发送消息"
+
+msgid "Send out this announcement now."
+msgstr "现在发送公告。"
+
+msgid "Send signup code"
+msgstr "发送注册邀请"
+
+msgid "Sender"
+msgstr "发送人"
+
+msgid "Sender deleted at"
+msgstr "发送人删除日期"
+
+msgid "Sent"
+msgstr "发送"
+
+msgid "Sent Messages"
+msgstr "发送消息"
+
+msgid "Sent from %(site_url)s"
+msgstr "发送自 %(site_url)s"
+
+msgid "Separate tags with spaces, put quotes around multiple-word tags."
+msgstr "以空格分隔标签，多词标签以引号括起来"
+
+msgid "Sept."
+msgstr "九月"
+
+msgid "September"
+msgstr "九月"
+
+msgid "Serbian"
+msgstr "塞尔维亚语"
+
+msgid "Server Error"
+msgstr "服务器端错误"
+
+msgid "Server Error <em>(500)</em>"
+msgstr "服务器端错 <em>(500)</em>"
+
+msgid "Server error"
+msgstr "服务器端错"
+
+msgid "Server error (500)"
+msgstr "服务器端错 (500)"
+
+msgid "Set Password"
+msgstr "设置密码"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Show all"
+msgstr "显示所有"
+
+msgid "Show object ID"
+msgstr "显示对象 ID"
+
+msgid "Sign Up"
+msgstr "注册"
+
+msgid "Sign up"
+msgstr "注册"
+
+msgid "Signup"
+msgstr "注册"
+
+msgid "Signup closed"
+msgstr "未开放注册"
+
+msgid "Simplified Chinese"
+msgstr "简体中文"
+
+msgid "Single Tweet"
+msgstr "单个微博"
+
+msgid "Site administration"
+msgstr "网站管理"
+
+msgid "Slovak"
+msgstr "斯洛伐克语"
+
+msgid "Slovenian"
+msgstr "斯洛文尼亚语"
+
+msgid "Someone with this email address has already joined:"
+msgstr "该电子邮箱已被使用："
+
+msgid ""
+"Something's wrong with your database installation. Make sure the appropriate "
+"database tables have been created, and make sure the database is readable by "
+"the appropriate user."
+msgstr ""
+"数据库错。请确认相关数据库的表已经创建，并且确认相关用户能读取相关数据库或"
+"表。"
+
+msgid "Sort by:"
+msgstr "排序："
+
+msgid "Spanish"
+msgstr "西班牙语"
+
+msgid "Start by <a href=\"%(login_url)s\">logging in</a>."
+msgstr "或者直接 <a href=\"%(login_url)s\">登陆</a>。"
+
+msgid ""
+"Start by <a href=\"%(signup_url)s\">signing up</a> and <a href=\"%(login_url)"
+"s\">logging in</a>."
+msgstr ""
+"从 <a href=\"%(signup_url)s\">注册</a> 并且 <a href=\"%(login_url)s\">登陆</"
+"a> 开始。"
+
+msgid "State"
+msgstr "状态"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Stop Observing Article"
+msgstr "停止阅读文章"
+
+msgid "String (up to %(max_length)s)"
+msgstr "字符型（最长 %(max_length)s）"
+
+msgid "Styria"
+msgstr "施蒂利亚州"
+
+msgid "Subject"
+msgstr "主题"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Successfully authenticated."
+msgstr "验证成功。"
+
+msgid "Successfully deleted photo '%s'"
+msgstr "删除照片 '%s' 成功"
+
+msgid "Successfully deleted post '%s'"
+msgstr "删除文章 '%s' 成功"
+
+msgid "Successfully deleted the requested avatars."
+msgstr "删除所选头像成功。"
+
+msgid "Successfully logged in as %(username)s."
+msgstr " %(username)s 成功登陆。"
+
+msgid "Successfully saved post '%s'"
+msgstr "保存文章 '%s' 成功"
+
+msgid "Successfully updated photo '%s'"
+msgstr "更新照片 '%s' 成功"
+
+msgid "Successfully updated post '%s'"
+msgstr "更新文章 '%s' 成功"
+
+msgid "Successfully updated your avatar."
+msgstr "更新头像成功。"
+
+msgid "Successfully uploaded a new avatar."
+msgstr "上传新头像成功。"
+
+msgid "Successfully uploaded photo '%s'"
+msgstr "上传照片 '%s' 成功"
+
+msgid "Summary"
+msgstr "摘要"
+
+msgid "Sun"
+msgstr "周日"
+
+msgid "Sunday"
+msgstr "周日"
+
+msgid "Suppliers of Cool Stuff"
+msgstr "这个酷玩意的提供者"
+
+msgid "Support"
+msgstr "支持"
+
+msgid "Swap"
+msgstr "交易"
+
+msgid "Swap Comment"
+msgstr "交换评论"
+
+msgid "Swap Conflict"
+msgstr "交易冲突"
+
+msgid "Swaps"
+msgstr "交易"
+
+msgid "Swedish"
+msgstr "瑞典语"
+
+msgid "Tags"
+msgstr "标签"
+
+msgid "Tamil"
+msgstr "坦米尔语"
+
+msgid "Task Assignment"
+msgstr "任务分配"
+
+msgid "Task Comment"
+msgstr "任务注释"
+
+msgid "Task Nudge"
+msgstr "Task Nudge"
+
+msgid "Task State Change"
+msgstr "任务状态变更"
+
+msgid "Task Status Update"
+msgstr "任务状态更新"
+
+msgid "Task Tag Update"
+msgstr "任务标签更新"
+
+msgid "Tasks"
+msgstr "任务"
+
+msgid "Tasks History"
+msgstr "任务历史"
+
+msgid "Tasks with %(field)s = %(value)s"
+msgstr "符合 %(field)s = %(value)s 的任务"
+
+msgid "Telugu"
+msgstr "泰卢固语"
+
+msgid "Temporary key is invalid."
+msgstr "临时密钥无效。"
+
+msgid "Terms of Service"
+msgstr "服务条款"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "Thai"
+msgstr "泰国语"
+
+msgid "Thank you for your comment"
+msgstr "谢谢您的评论"
+
+msgid "Thanks for approving"
+msgstr "感谢批准"
+
+msgid "Thanks for commenting"
+msgstr "谢谢评论"
+
+msgid "Thanks for flagging"
+msgstr "谢谢标记"
+
+msgid "Thanks for removing"
+msgstr "谢谢删除"
+
+msgid "Thanks for spending some quality time with the Web site today."
+msgstr "非常感谢您为本站贡献出的时间和心血。"
+
+msgid ""
+"Thanks for taking the time to improve the quality of discussion on our site"
+msgstr "谢谢您为提高本站讨论而做出的努力"
+
+msgid "Thanks for using our site!"
+msgstr "感谢使用本站！"
+
+msgid ""
+"That e-mail address doesn't have an associated user account. Are you sure "
+"you've registered?"
+msgstr "该邮箱还未与用户帐号关联。确认要注册吗？"
+
+msgid "The %(name)s \"%(obj)s\" was added successfully."
+msgstr "%(name)s \"%(obj)s\" 添加成功。"
+
+msgid ""
+"The %(name)s \"%(obj)s\" was added successfully. You may edit it again below."
+msgstr "%(name)s \"%(obj)s\" 添加完成。您可以在下面重新编辑它。"
+
+msgid "The %(name)s \"%(obj)s\" was changed successfully."
+msgstr "%(name)s \"%(obj)s\" 变更完成。"
+
+msgid "The %(name)s \"%(obj)s\" was deleted successfully."
+msgstr "%(name)s \"%(obj)s\" 成功删除。"
+
+msgid "The %(site_name)s team"
+msgstr "%(site_name)s 网站团队"
+
+msgid "The %(verbose_name)s was created successfully."
+msgstr "%(verbose_name)s 创建成功。"
+
+msgid "The %(verbose_name)s was deleted."
+msgstr "%(verbose_name)s 已删除。"
+
+msgid "The %(verbose_name)s was updated successfully."
+msgstr "%(verbose_name)s 更新成功。"
+
+msgid "The Chilean RUT is not valid."
+msgstr "无效的智利 RUT。"
+
+msgid "The Icelandic identification number is not valid."
+msgstr "冰岛身份证号码无效。"
+
+msgid "The URLs which are allowed to be accessed by bots."
+msgstr "爬虫允许访问的 URLs。"
+
+msgid "The URLs which are not allowed to be accessed by bots."
+msgstr "不允许爬虫访问的 URL。"
+
+msgid ""
+"The background color of the reflection gradient. Set this to match the "
+"background color of your page."
+msgstr ""
+"The background color of the reflection gradient. Set this to match the "
+"background color of your page."
+
+msgid "The code <b>%(code)s</b> is incorrect."
+msgstr "邀请码 <b>%(code)s</b> 错误。"
+
+msgid "The following usernames are incorrect: %(users)s"
+msgstr "下述用户名不正确： %(users)s"
+
+msgid ""
+"The height of the reflection as a percentage of the orignal image. A factor "
+"of 0.0 adds no reflection, a factor of 1.0 adds a reflection equal to the "
+"height of the orignal image."
+msgstr ""
+"The height of the reflection as a percentage of the orignal image. A factor "
+"of 0.0 adds no reflection, a factor of 1.0 adds a reflection equal to the "
+"height of the orignal image."
+
+msgid "The initial opacity of the reflection gradient."
+msgstr "The initial opacity of the reflection gradient."
+
+msgid "The inline foreign key did not match the parent instance primary key."
+msgstr "该内联的外键与父类实体的主键不匹配。"
+
+msgid "The model %s has already been registered."
+msgstr "模型 %s 已经注册过。"
+
+msgid "The opacity of the overlay."
+msgstr "覆盖的不透明度。"
+
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a new password reset."
+msgstr "密码重置链接失效。有可能是链接已被使用过。请重新申请密码重置。"
+
+msgid "The submitted file is empty."
+msgstr "要提交的文件为空。"
+
+msgid "The tag input given was invalid."
+msgstr "输入的标签无效。"
+
+msgid "The two password fields didn't match."
+msgstr "两次输入的密码不一致。"
+
+msgid "The username and/or password you specified are not correct."
+msgstr "用户名或密码错。"
+
+msgid ""
+"The wiki article <a href=\"%(article_url)s\">%(article)s</a> has been edited "
+"by <a href=\"%(user_url)s\">%(user)s</a>."
+msgstr ""
+"维基文章 <a href=\"%(article_url)s\">%(article)s</a> 已被用户<a href="
+"\"%(user_url)s\">%(user)s</a>编辑。"
+
+msgid ""
+"The wiki article <a href=\"%(article_url)s\">%(observed)s</a>, that you "
+"observe, has changed."
+msgstr ""
+"您观看的维基文章 <a href=\"%(article_url)s\">%(observed)s</a> 已被修改。"
+
+msgid "There are currently no tweets to be listed."
+msgstr "没有微博供列出。"
+
+msgid "There are no announcements for you."
+msgstr "您没收到任何公告。"
+
+msgid "There are no users who checked in near your location."
+msgstr "没有人在您周围登记。"
+
+msgid "There is no user with this username."
+msgstr "用户名不存在。"
+
+msgid ""
+"There's been an error. It's been reported to the site administrators via e-"
+"mail and should be fixed shortly. Thanks for your patience."
+msgstr "发现错误。已经将错误邮件给网站管理员，我们将尽快解决。感谢您的支持。"
+
+msgid "These are blog posts from everyone:"
+msgstr "所有人的博客文章："
+
+msgid "These are blog posts from your friends:"
+msgstr "您好友的博文："
+
+msgid "These are bookmarks from everyone:"
+msgstr "所有人的书签："
+
+msgid "These are bookmarks from your friends:"
+msgstr "您好友的书签："
+
+msgid "These are the groups you participate in."
+msgstr "您所在的群组。"
+
+msgid "These are the projects you participate in."
+msgstr "这是您所参与的项目。"
+
+msgid "These are the tribes you participate in."
+msgstr "您所参与的圈子。"
+
+msgid "These are tweets from everyone:"
+msgstr "所有人的微博："
+
+msgid "These are tweets from your friends:"
+msgstr "好友的微博："
+
+msgid "This URL appears to be a broken link."
+msgstr "该URL可能是一个断链。"
+
+msgid "This account is currently inactive."
+msgstr "该帐号已被禁用。"
+
+msgid "This account is inactive."
+msgstr "该帐号未激活。"
+
+msgid "This article does not exist."
+msgstr "本文不存在。"
+
+msgid ""
+"This can be either an absolute path (as above) or a full URL starting with "
+"'http://'."
+msgstr "该项可以为同上的绝对路径或者以'http://'开关的全URL路径。"
+
+msgid ""
+"This comment was posted by an authenticated user and thus the email is read-"
+"only."
+msgstr "该评论由注册用户所发表，所以邮件只读。"
+
+msgid ""
+"This comment was posted by an authenticated user and thus the name is read-"
+"only."
+msgstr "该评论由注册用户所发表，所以名称只读。"
+
+msgid "This email address already associated with this account."
+msgstr "该邮件已和该帐号关联。"
+
+msgid "This field cannot be null."
+msgstr "该项不能为空。"
+
+msgid "This field is required."
+msgstr "该项必须填写。"
+
+msgid "This field requires 11 digits."
+msgstr "该项需要11位数字。"
+
+msgid "This field requires 7 or 8 digits."
+msgstr "该项需要七到八个数字。"
+
+msgid "This field requires 8 digits."
+msgstr "该项需要8位数字。"
+
+msgid "This field requires at least 14 digits"
+msgstr "该项必须至少14个数字。"
+
+msgid "This field requires at most 11 digits or 14 characters."
+msgstr "该项需要至少 11 个或 14 个数字。"
+
+msgid "This field requires only numbers."
+msgstr "只项只允许数字。"
+
+msgid "This is just a basic group example with no extra content items."
+msgstr "这只是一个基本群组的例子，没有任何额外的内容条目。"
+
+msgid "This month"
+msgstr "本月"
+
+msgid ""
+"This object doesn't have a change history. It probably wasn't added via this "
+"admin site."
+msgstr "该对象没有变更历史。可能该对象不是由后台管理中添加的。"
+
+msgid ""
+"This should be an absolute path, excluding the domain name. Example: '/"
+"events/search/'."
+msgstr "该项必须为不包含域名的绝对路径，如：'/events/search/'。"
+
+msgid "This username is already taken. Please choose another."
+msgstr "该用户名已经被注册，请选择其它用户名。"
+
+msgid "This value must be a decimal number."
+msgstr "该项必须为小数。"
+
+msgid "This value must be a float."
+msgstr "该项必须为浮点数。"
+
+msgid "This value must be an integer."
+msgstr "该项必须为整数。"
+
+msgid "This value must be either None, True or False."
+msgstr "该项必须为 None、True或False三者之一。"
+
+msgid "This value must be either True or False."
+msgstr "该项必须为True或者False。"
+
+msgid "This value must contain only letters, numbers and underscores."
+msgstr "该项只允许包含字母、数字和下划线。"
+
+msgid "This value must contain only letters, numbers, underscores and hyphens."
+msgstr "只能由字母、数字、下划线（_）和连字符（-）组成。"
+
+msgid ""
+"This value must contain only letters, numbers, underscores, dashes or "
+"slashes."
+msgstr "该项只允许包含字母、数字、下划线、破折号或斜线。"
+
+msgid "This year"
+msgstr "今年"
+
+msgid "Thu"
+msgstr "周四"
+
+msgid "Thumbnail"
+msgstr "缩略图"
+
+msgid "Thursday"
+msgstr "周四"
+
+msgid "Tile"
+msgstr "平铺"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "Time of death"
+msgstr "最后期限"
+
+msgid "Time:"
+msgstr "时间："
+
+msgid "Timezone"
+msgstr "时区"
+
+msgid "Timezone successfully updated."
+msgstr "时区更新成功。"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "To associate a new OpenID with this account, sign in with it here:"
+msgstr "要关联新的 OpenID 到本帐号，请登陆在此登陆："
+
+msgid "Today"
+msgstr "今天"
+
+msgid "Top"
+msgstr "顶"
+
+msgid "Topic"
+msgstr "主题"
+
+msgid "Topics"
+msgstr "话题"
+
+msgid "Topics for <a href=\"%(group_url)s\">%(group_name)s</a>"
+msgstr "<a href=\"%(group_url)s\">%(group_name)s</a>的主题"
+
+msgid "Topics:"
+msgstr "主题："
+
+msgid "Traditional Chinese"
+msgstr "繁体中文"
+
+msgid "Trash"
+msgstr "垃圾箱"
+
+msgid "Tribe"
+msgstr "圈子"
+
+msgid "Tribe %(tribe_name)s deleted."
+msgstr "圈子 %(tribe_name)s 已删除。"
+
+msgid "Tribe Photo Pool"
+msgstr "圈子相册"
+
+msgid "Tribes"
+msgstr "圈子"
+
+msgid "Tue"
+msgstr "周二"
+
+msgid "Tuesday"
+msgstr "周二"
+
+msgid "Turkish"
+msgstr "土耳其语"
+
+msgid "Tweets"
+msgstr "微博"
+
+msgid "Tweets You Follow"
+msgstr "您围观的微博"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Twitter authentication failed"
+msgstr "Twitter验证失败"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Tyrol"
+msgstr "蒂罗尔州"
+
+msgid "U.S. state (two uppercase letters)"
+msgstr "美国州代码（两位大写字母）"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Ukrainian"
+msgstr "乌克兰语"
+
+msgid "Unassigned"
+msgstr "未分配的"
+
+msgid ""
+"Uncheck this box to make the comment effectively disappear from the site."
+msgstr "取消选择该评论将立即从网站中消失。"
+
+msgid ""
+"Uncheck this to make the uploaded gallery and included photographs private."
+msgstr "不选该项将使上传的相册以及相册中的照片为私有。"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown content"
+msgstr "未知内容"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update Task"
+msgstr "更新任务"
+
+msgid "Upload"
+msgstr "上传"
+
+msgid "Upload New Image"
+msgstr "上传新图像"
+
+msgid "Upload a Photo"
+msgstr "上传照片"
+
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr "上传正确的图像。您所上传的文件不是一个图像或者是一个已经损坏的图像。"
+
+msgid "Upload an Avatar:"
+msgstr "上传头像："
+
+msgid "Upload attachment"
+msgstr "上传附件"
+
+msgid "Upper Austria"
+msgstr "上奥地利州"
+
+msgid ""
+"Use '[algo]$[salt]$[hexdigest]' or use the <a href=\"password/\">change "
+"password form</a>."
+msgstr ""
+"使用 '[algo]$[salt]$[hexdigest]' 或者 <a href=\"password/\">密码修改表单</"
+"a>。"
+
+msgid "User"
+msgstr "用户"
+
+msgid "User is already a member of this project."
+msgstr "该用户已经是该项目的成员。"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Username:"
+msgstr "用户名："
+
+msgid "Usernames can only contain letters, numbers and underscores."
+msgstr "用户名只能包含字母、数字和下划线（_）"
+
+msgid "Usernames cannot contain the '@' character."
+msgstr "用户名中不能包含“@”字符"
+
+msgid ""
+"Users whose tweets <a href=\"%(other_user_url)s\">%(other_user)s</a> is "
+"following:"
+msgstr "您围观 <a href=\"%(other_user_url)s\">%(other_user)s</a> 的微博："
+
+msgid "Verify Association"
+msgstr "验证关联"
+
+msgid "Verify this Association"
+msgstr "验证关联"
+
+msgid "Verify your e-mail address"
+msgstr "验证您的邮箱"
+
+msgid "Very High"
+msgstr "极高"
+
+msgid "Very Low"
+msgstr "极低"
+
+msgid "Vienna"
+msgstr "维也纳"
+
+msgid "View Message"
+msgstr "查看消息"
+
+msgid "Viewed %(view_count)s times"
+msgstr "浏览 %(view_count)s 次"
+
+msgid "Vorarlberg"
+msgstr "福拉尔贝格州"
+
+msgid ""
+"We apologize, but your form has expired. Please continue filling out the "
+"form from this page."
+msgstr "非常抱歉，您的表单已经超时。请继续在本页面填写表单。"
+
+msgid ""
+"We have sent you an e-mail to <b>%(email)s</b> for verification. Follow the "
+"link provided to finalize the signup process. If you do not receive it "
+"within a few minutes, contact us at <a href=\"mailto:%(CONTACT_EMAIL)s\">"
+"%(CONTACT_EMAIL)s</a>."
+msgstr ""
+"一封验证邮件已发送到 <b>%(email)s</b>。点击下面的链接完成注册。若您一段时间后"
+"仍没收到，请联系我们 <a href=\"mailto:%(CONTACT_EMAIL)s\">%(CONTACT_EMAIL)s</"
+"a>。"
+
+msgid ""
+"We have sent you an e-mail to <b>%(email)s</b>. If you do not receive it "
+"within a few minutes, contact us at <a href=\"mailto:%(CONTACT_EMAIL)s\">"
+"%(CONTACT_EMAIL)s</a>."
+msgstr ""
+"一封邮件已经发送到 <b>%(email)s</b>。如果您一段时间后仍没收到，请联系我们 <a "
+"href=\"mailto:%(CONTACT_EMAIL)s\">%(CONTACT_EMAIL)s</a>。"
+
+msgid ""
+"We're sorry but a server error has occurred. We've been notified and will "
+"look into it as soon as possible."
+msgstr "服务器端错误。我们将尽快解决。"
+
+msgid "We're sorry but that page could not be found."
+msgstr "未找到页面。"
+
+msgid "We're sorry, but the requested page could not be found."
+msgstr "非常抱歉，页面未找到。"
+
+msgid ""
+"We've e-mailed you instructions for setting your password to the e-mail "
+"address you submitted. You should be receiving it shortly."
+msgstr "密码设置指示邮件已发送到您提交的邮箱中。很快您就可以收到邮件。"
+
+msgid "Website"
+msgstr "网站 "
+
+msgid "Wed"
+msgstr "周三"
+
+msgid "Wednesday"
+msgstr "周三"
+
+msgid "Welcome"
+msgstr "欢迎"
+
+msgid "Welcome to Pinax"
+msgstr "欢迎使用Pinax"
+
+msgid "Welcome,"
+msgstr "欢迎，"
+
+msgid "Welsh"
+msgstr "威尔士语"
+
+msgid "What Next?"
+msgstr "了解更多？"
+
+msgid "What are you doing?"
+msgstr "您在干什么呢？"
+
+msgid "Who You Are Following"
+msgstr "您所围观的人"
+
+msgid ""
+"Whoops, you can't register for an account now. This site is currently closed "
+"for sign-up."
+msgstr ""
+"非常抱歉，现在不能注册新帐号。该网站目前关闭了新帐号注册。请继续关注本站。"
+
+msgid "Wiki"
+msgstr "维基"
+
+msgid "Wiki Articles"
+msgstr "维基文章"
+
+msgid "Wondering <a href=\"%(what_next_url)s\">What Next</a>?"
+msgstr "想 <a href=\"%(what_next_url)s\">了解更多</a> 吗？"
+
+msgid "Write a Blog Post"
+msgstr "编写博客文章"
+
+msgid "Wrong checksum for the National Business Register Number (REGON)."
+msgstr "无效的全国商业登记号码 (REGON) 校验。"
+
+msgid "Wrong checksum for the National Identification Number."
+msgstr "错误的全国身份证号码校验。"
+
+msgid "Wrong checksum for the Tax Number (NIP)."
+msgstr "无效的税务号 (NIP) 校验。"
+
+msgid "XML text"
+msgstr "XML 文本"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Yes, I'm sure"
+msgstr "是的，确定"
+
+msgid "Yes, delete this object"
+msgstr "是，删除该对象"
+
+msgid ""
+"You accepted <a href=\"%(user_url)s\">%(invitation_from_user)s</a>'s friend "
+"request."
+msgstr ""
+"您接受了 <a href=\"%(user_url)s\">%(invitation_from_user)s</a>'s 好友请求。"
+
+msgid "You are already logged in."
+msgstr "您已登陆。"
+
+msgid ""
+"You are already logged into the site. To login with a different OpenID "
+"please <a href=\"/openid/logout/?next=%(acct_logout_url)s\">logout</a> first."
+msgstr ""
+"您已经登陆本站。要使用不同的 OpenID 登陆 请先 <a href=\"/openid/logout/?next="
+"%(acct_logout_url)s\">注销</a> 。"
+
+msgid "You are friends with %(other_user)s."
+msgstr "您是 %(other_user)s 的好友。"
+
+msgid "You are not a member and so cannot add a task."
+msgstr "您还不是成员，所以不能添加任务。"
+
+msgid "You are not a member and so cannot start a new topic"
+msgstr "您还不是成员，无法发起话题"
+
+msgid "You are not the author of this photo."
+msgstr "您不是该照片的主人。"
+
+msgid "You are not the author of this post"
+msgstr "您不是该文章的作者"
+
+msgid "You are not the creator of this offer."
+msgstr "您不是该交易的发起人。"
+
+msgid ""
+"You are not the only member of the group so you cannot delete the group."
+msgstr "群组中还有其他成员，不能删除群组。"
+
+msgid "You are not the only member of the tribe so you can't delete the tribe."
+msgstr "您的圈子还有其它成员，不能删除。"
+
+msgid "You are not yet a member of any <a href=\"%(tribe_url)s\">tribes</a>."
+msgstr "您没有加入任何 <a href=\"%(tribe_url)s\">圈子</a>。"
+
+msgid "You are now following %(other_user)s"
+msgstr "您在围观 %(other_user)s"
+
+msgid "You are the creator of this group so can't leave (yet)."
+msgstr "您是该群组创始人，所以不能退出该群组。"
+
+msgid "You are the creator of this tribe so can't leave (yet)."
+msgstr "您是该圈子的创始人，不能退出圈子。"
+
+msgid "You can <a href=\"%(login_url)s\">Log in</a> to try out the site."
+msgstr "您也可以直接 <a href=\"%(login_url)s\">登陆</a> 本站。"
+
+msgid ""
+"You can <a href=\"%(signup_url)s\">Sign up</a> and <a href=\"%(login_url)s"
+"\">Log in</a> to try out the site."
+msgstr ""
+"您可以 <a href=\"%(signup_url)s\">注册</a> 并 <a href=\"%(login_url)s\">登陆"
+"</a> 以试用本站功能。"
+
+msgid ""
+"You can drag this '<a href=\"%(bookmarklet)s\">Add to %(SITE_NAME)s "
+"Bookmarks</a>' link to your bookmark bar to post the pages you visit!"
+msgstr ""
+"您可以拖动该 '<a href=\"%(bookmarklet)s\">添加 %(SITE_NAME)s 书签</a>' 链接到"
+"书签栏，提交您访问的页面！"
+
+msgid ""
+"You do not have a verified email address to which notices can be sent. You "
+"can add one by going to <a href=\"%(email_url)s\">Account</a>."
+msgstr ""
+"您还没有被验证的邮箱。您可以在 <a href=\"%(email_url)s\">帐号</a> 处添加。"
+
+msgid "You don't have permission to edit anything."
+msgstr "您没有权限编辑任何内容。"
+
+msgid "You have accepted the friendship request from %(from_user)s"
+msgstr "您接受了 %(from_user)s 的好友请求"
+
+msgid "You have already authorized a twitter account."
+msgstr "您已经授权了一个 twitter 帐号。"
+
+msgid "You have already bookmarked this link."
+msgstr "该书签已经收藏过。"
+
+msgid "You have already joined tribe %(tribe_name)s"
+msgstr "您已经加入过 %(tribe_name)s 圈子"
+
+msgid "You have authorized a twitter account."
+msgstr "您已验证了一个 twitter 帐号。"
+
+msgid "You have been added to the waiting list."
+msgstr "您被加入到等待列表中。"
+
+msgid ""
+"You have begun to associate <strong>%(specific_openid)s</strong> with your "
+"existing account.  This will allow you to sign in as <strong>%(user)s</"
+"strong> using that OpenID.  Click below to verify that association."
+msgstr ""
+"您正在关联 <strong>%(specific_openid)s</strong> 到您的帐号上。 以后您就可以使"
+"用 OpenID 帐号登陆 <strong>%(user)s</strong> 帐号。点击下面验证关联。"
+
+msgid ""
+"You have confirmed that %(email)s is an email address for user '%(user)s'."
+msgstr "您已确认邮件 %(email)s 是用户 '%(user)s' 的联系邮箱。"
+
+msgid "You have declined the friendship request from %(from_user)s"
+msgstr "您拒绝了 %(from_user)s 的好友请求"
+
+msgid ""
+"You have deleted the message <a href=\"%(message_url)s\">%(message)s</a>."
+msgstr "已删除消息 <a href=\"%(message_url)s\">%(message)s</a>。"
+
+msgid "You have joined the tribe %(tribe_name)s"
+msgstr "加入 %(tribe_name)s 圈"
+
+msgid "You have no assigned tasks right now."
+msgstr "您还没有分配到任务。"
+
+msgid ""
+"You have no avatars to delete.  Please <a href=\"%(avatar_change_url)s"
+"\">upload one</a> now."
+msgstr ""
+"您没有头像可删除。请立即 <a href=\"%(avatar_change_url)s\">上传一个</a> 。"
+
+msgid "You have no created tasks right now."
+msgstr "您还没有创建任何任务。"
+
+msgid ""
+"You have not set a password for this user account. You are unable to remove "
+"OpenID associations until you <a href=\"%(acct_passwd_set_url)s\">set a "
+"password</a>."
+msgstr ""
+"您还未被该帐号设置密码。您还不能移除OpenID 关联，除非您 <a href="
+"\"%(acct_passwd_set_url)s\">设置密码</a>。"
+
+msgid "You have provided an invalid code for signup."
+msgstr "您用来注册的邀请码错误。"
+
+msgid ""
+"You have received the message <a href=\"%(message_url)s\">%(message)s</a> "
+"from %(message_sender)s."
+msgstr ""
+"您从 %(message_sender)s 收到消息 <a href=\"%(message_url)s\">%(message)s</"
+"a>。"
+
+msgid ""
+"You have received the message <a href=\"%(message_url)s\">%(message)s</a> "
+"from <a href=\"%(sender_url)s\">%(message_sender)s</a>."
+msgstr ""
+"已接收来自 <a href=\"%(sender_url)s\">%(message_sender)s</a> 的消息 <a href="
+"\"%(message_url)s\">%(message)s</a> 。"
+
+msgid ""
+"You have recovered the message <a href=\"%(message_url)s\">%(message)s</a>."
+msgstr "已经恢复消息 <a href=\"%(message_url)s\">%(message)s</a>。"
+
+msgid "You have removed %(from_user)s from friends"
+msgstr "您删除了好友 %(from_user)s"
+
+msgid ""
+"You have replied to <a href=\"%(message_url)s\">%(message_parent_msg)s</a> "
+"from %(message_recipient)s."
+msgstr ""
+"您已回复了 %(message_recipient)s 的消息<a href=\"%(message_url)s\">"
+"%(message_parent_msg)s</a>。"
+
+msgid ""
+"You have replied to <a href=\"%(message_url)s\">%(message_parent_msg)s</a> "
+"from <a href=\"%(recipient_url)s\">%(message_recipient)s</a>."
+msgstr ""
+"已经回复 <a href=\"%(recipient_url)s\">%(message_recipient)s</a> 的消息 <a "
+"href=\"%(message_url)s\">%(message_parent_msg)s</a>。"
+
+msgid "You have saved bookmark '%(description)s'"
+msgstr "您已保存 '%(description)s' 书签"
+
+msgid ""
+"You have sent the message <a href=\"%(message_url)s\">%(message)s</a> to "
+"%(message_recipient)s."
+msgstr ""
+"您发送了消息 <a href=\"%(message_url)s\">%(message)s</a> 给 "
+"%(message_recipient)s。"
+
+msgid ""
+"You have sent the message <a href=\"%(message_url)s\">%(message)s</a> to <a "
+"href=\"%(recipient_url)s\">%(message_recipient)s</a>."
+msgstr ""
+"消息 <a href=\"%(message_url)s\">%(message)s</a> 已发送给 <a href="
+"\"%(recipient_url)s\">%(message_recipient)s</a>。"
+
+msgid "You have started the topic %(topic_title)s"
+msgstr "您发起了话题 %(topic_title)s"
+
+msgid "You have stopped following %(other_user)s"
+msgstr "您不再围观 %(other_user)s"
+
+msgid ""
+"You haven't added any <a href=\"%(add_bookmark_url)s\">bookmarks</a> yet."
+msgstr "没有添加任何 <a href=\"%(add_bookmark_url)s\">书签</a>。"
+
+msgid "You haven't checked in any location."
+msgstr "您未提交任何误分类。"
+
+msgid "You haven't posted any <a href=\"%(tweets_url)s\">tweets</a> yet."
+msgstr "您还未发表任何 <a href=\"%(tweets_url)s\">微博</a> 。"
+
+msgid "You may add another %s below."
+msgstr "您可以在下面添加另外的 %s 。"
+
+msgid ""
+"You may delete your password since you are currently logged in using OpenID."
+msgstr "您可以删除密码，因为您正在使用 OpenID 登陆本站。"
+
+msgid "You may edit it again below."
+msgstr "您可以在下面重新编辑。"
+
+msgid "You must provide a resolution to mark this task as resolved"
+msgstr "您要将该任务标志为已经完成则必须提供一个解决方案"
+
+msgid "You must specify a code."
+msgstr "您必顺输入邀请码。"
+
+msgid "You must type the same password each time."
+msgstr "两次密码必须一致。"
+
+msgid ""
+"You should really add one so you can receive notifications, reset your "
+"password if you forget it, etc."
+msgstr "您应该添加一个以便接收提醒、忘记密码时重置密码等。"
+
+msgid "You're receiving this e-mail because you requested a password reset"
+msgstr "您收到本邮件是因为您请求了密码重置"
+
+msgid "You've been logged out."
+msgstr "已注销。"
+
+msgid "Your %(model_name)s was added successfully"
+msgstr "您的 %(model_name)s 成功添加"
+
+msgid "Your %(model_name)s was changed successfully"
+msgstr "您的 %(model_name)s 成功更新"
+
+msgid "Your %(model_name)s was deleted."
+msgstr "您的 %(model_name)s 已删除。"
+
+msgid "Your Blog Posts"
+msgstr "您的博文"
+
+msgid "Your Bookmarks"
+msgstr "您的书签"
+
+msgid "Your Checkins"
+msgstr "您的提交"
+
+msgid "Your Followers"
+msgstr "围观您的人"
+
+msgid "Your Friends"
+msgstr "您的好友"
+
+msgid "Your Groups"
+msgstr "您的群组"
+
+msgid "Your Offers"
+msgstr "您的出价"
+
+msgid "Your Photos"
+msgstr "您的照片"
+
+msgid "Your Posts"
+msgstr "您的文章"
+
+msgid "Your Profile"
+msgstr "您的资料"
+
+msgid "Your Projects"
+msgstr "您的项目"
+
+msgid "Your Tasks"
+msgstr "您的任务"
+
+msgid "Your Tribes"
+msgstr "您的圈子"
+
+msgid ""
+"Your Web browser doesn't appear to have cookies enabled. Cookies are "
+"required for logging in."
+msgstr "您的浏览器未允许cookie。Cookie是登陆必须的。"
+
+msgid "Your accepted Swaps"
+msgstr "您同意了交易"
+
+msgid ""
+"Your account is currently associated with the following OpenID %(buttons)s:"
+msgstr "您的帐号当前跟下列 OpenID %(buttons)s 关联："
+
+msgid "Your attachment was deleted."
+msgstr "附件已删除。"
+
+msgid "Your attachment was uploaded."
+msgstr "附件已上传。"
+
+msgid "Your avatar is currently the one found on <a href="
+msgstr "您的头像已经在 <a href="
+
+msgid "Your dead Swaps"
+msgstr "您已中止的交易"
+
+msgid "Your e-mail address is not your username. Try '%s' instead."
+msgstr "邮箱地址不是用户名。请尝试“%s”。"
+
+msgid "Your email address has already been verified"
+msgstr "您的邮件地址已验证过。"
+
+msgid "Your old password was entered incorrectly. Please enter it again."
+msgstr "旧密码输入错误。请重新输入。"
+
+msgid "Your password has been deleted."
+msgstr "您的密码已经删除。"
+
+msgid "Your password has been set.  You may go ahead and log in now."
+msgstr "密码已经发送。请重新登陆。"
+
+msgid "Your password is now changed."
+msgstr "您的密码已改变。"
+
+msgid "Your password was changed."
+msgstr "密码已经变更。"
+
+msgid ""
+"Your revision <a href=\"%(revision_url)s\">%(revision)s</a> on <a href="
+"\"%(article_url)s\">%(article)s</a> has been reverted."
+msgstr ""
+"您的文章 <a href=\"%(article_url)s\">%(article)s</a> 版本 <a href="
+"\"%(revision_url)s\">%(revision)s</a> 被回滚了。"
+
+msgid "Your username, in case you've forgotten:"
+msgstr "用户名，万一您忘了："
+
+msgid "a comment was made on one of your blog posts"
+msgstr "有人对您的博客文章进行了评论。"
+
+msgid "a friend has updated his avatar"
+msgstr "一位好友更新了他的头像"
+
+msgid "a friend of yours posted to their blog"
+msgstr "您的好友发表了一篇博客"
+
+msgid "a group you are a member of has a new member"
+msgstr "您所在群组有新成员加入"
+
+msgid "a group you created has a new member"
+msgstr "您创建的群组有新成员加入"
+
+msgid "a new comment has been made on a task"
+msgstr "任务已经注释"
+
+msgid "a new group has been created"
+msgstr "新群组已创建"
+
+msgid "a new project has been created"
+msgstr "有新项目创建了"
+
+msgid "a new task been created"
+msgstr "新任务已创建"
+
+msgid "a new tribe has been created"
+msgstr "新圈子已创建"
+
+msgid "a project you are a member of has a new member"
+msgstr "您所在的项目有新成员加入"
+
+msgid "a project you created has a new member"
+msgstr "您所创建项目有了新成员"
+
+msgid ""
+"a short version of the name consisting only of letters, numbers, underscores "
+"and hyphens."
+msgstr "A project already exists with"
+
+msgid ""
+"a short version of the title consisting only of letters, numbers, "
+"underscores and hyphens."
+msgstr "简要标题只能由字母、数字、下划线（_）和连字符（-）组成。"
+
+msgid "a task has been (re)assigned"
+msgstr "任务已经（重新）分配"
+
+msgid "a tribe you are a member of has a new member"
+msgstr "您所在的圈子有新成员加入"
+
+msgid "a tribe you created has a new member"
+msgstr "您所创建的圈子有新成员加入"
+
+msgid "a.m."
+msgstr "上午"
+
+msgid "about"
+msgstr "关于"
+
+msgid "accept"
+msgstr "接受"
+
+msgid "action time"
+msgstr "操作时间"
+
+msgid "active"
+msgstr "激活"
+
+msgid "add"
+msgstr "添加"
+
+msgid "add bookmark"
+msgstr "添加书签"
+
+msgid "added"
+msgstr "已添加"
+
+msgid "adder"
+msgstr "添加人"
+
+msgid "ago"
+msgstr "之前"
+
+msgid "all %s"
+msgstr "所有 %s"
+
+msgid "all content will be removed"
+msgstr "所有文章都将被删除"
+
+msgid "allow comments"
+msgstr "允许评论"
+
+msgid "allowed"
+msgstr "已允许的"
+
+msgid "an article you observe has changed"
+msgstr "您所阅读的文章已经被改变"
+
+msgid "an invitation you sent has been accepted"
+msgstr "您所发送邀请已被接受。"
+
+msgid "an invitation you sent to join this site has been accepted"
+msgstr "您所发送的加入本站邀请已被接受"
+
+msgid "and"
+msgstr "和"
+
+msgid "announcement"
+msgstr "公告"
+
+msgid "announcements"
+msgstr "公告"
+
+msgid "apr"
+msgstr "四月"
+
+msgid "archived"
+msgstr "存档的"
+
+msgid "assign to me"
+msgstr "指派给我的"
+
+msgid "assignee"
+msgstr "分配到任务的人"
+
+msgid "at"
+msgstr "于"
+
+msgid "attachment"
+msgstr "附件"
+
+msgid "aug"
+msgstr "八月"
+
+msgid "avatar have been updated"
+msgstr "头像已更新"
+
+msgid "away"
+msgstr "离开"
+
+msgid "body"
+msgstr "正文"
+
+msgid "bookmark"
+msgstr "书签"
+
+msgid "brightness"
+msgstr "亮度"
+
+msgid "calendar..."
+msgstr "日历……"
+
+msgid "cancel"
+msgstr "取消"
+
+msgid "caption"
+msgstr "标题"
+
+msgid "change message"
+msgstr "更改消息"
+
+msgid "change password"
+msgstr "更改密码"
+
+msgid "change related object"
+msgstr "修改相关对象"
+
+msgid "checked in at"
+msgstr "登记于"
+
+msgid "clear"
+msgstr "清除"
+
+msgid "color"
+msgstr "色彩"
+
+msgid "comment"
+msgstr "评论"
+
+msgid "comment flag"
+msgstr "评论标记"
+
+msgid "comment flags"
+msgstr "评论标志"
+
+msgid "comments"
+msgstr "评论"
+
+msgid "content"
+msgstr "内容"
+
+msgid "content type"
+msgstr "内容类型"
+
+msgid "content types"
+msgstr "内容类型"
+
+msgid "contrast"
+msgstr "对比度"
+
+msgid "count"
+msgstr "数量"
+
+msgid "create"
+msgstr "创建"
+
+msgid "created"
+msgstr "创建日期"
+
+msgid "created at"
+msgstr "创建日期"
+
+msgid "created_at"
+msgstr "创建日期"
+
+msgid "creation date"
+msgstr "创建日期"
+
+msgid "creation_date"
+msgstr "创建日期"
+
+msgid "creator"
+msgstr "创建人"
+
+msgid "crop from"
+msgstr "crop from"
+
+msgid "crop to fit?"
+msgstr "裁剪到合适大小？"
+
+msgid "date"
+msgstr "日期"
+
+msgid "date added"
+msgstr "添加日期"
+
+msgid "date joined"
+msgstr "加入日期"
+
+msgid "date published"
+msgstr "发布日期"
+
+msgid "date taken"
+msgstr "拍摄日期"
+
+msgid "date/time approved"
+msgstr "批准日期/时间"
+
+msgid "date/time modified"
+msgstr "修改日期/时间"
+
+msgid "date/time submitted"
+msgstr "提交时间/日期"
+
+msgid "dec"
+msgstr "十二月"
+
+msgid "decline"
+msgstr "拒绝"
+
+msgid "default"
+msgstr "默认"
+
+msgid "delete"
+msgstr "删除"
+
+msgid "delete my password"
+msgstr "删除密码"
+
+msgid "description"
+msgstr "描述"
+
+msgid "detail"
+msgstr "详情"
+
+msgid "display"
+msgstr "显示"
+
+msgid "display name"
+msgstr "显示名称"
+
+msgid "domain"
+msgstr "域名"
+
+msgid "domain name"
+msgstr "域名"
+
+msgid "e-mail address"
+msgstr "邮箱"
+
+msgid "e-mail addresses"
+msgstr "邮箱地址"
+
+msgid "e-mail confirmation"
+msgstr "邮件确认"
+
+msgid "e-mail confirmations"
+msgstr "邮件确认"
+
+msgid "edited by user"
+msgstr "被用户编辑"
+
+msgid "effect"
+msgstr "效果"
+
+msgid "eight"
+msgstr "八"
+
+msgid "enable comments"
+msgstr "允许评论"
+
+msgid "expire date"
+msgstr "过期日期"
+
+msgid "feb"
+msgstr "二月"
+
+msgid "filter"
+msgstr "过滤器"
+
+msgid "filter:"
+msgstr "过滤："
+
+msgid "filters"
+msgstr "滤镜"
+
+msgid "first name"
+msgstr "名"
+
+msgid "five"
+msgstr "五"
+
+msgid "flag"
+msgstr "标记"
+
+msgid "flat page"
+msgstr "标记页面"
+
+msgid "flat pages"
+msgstr "标记页面"
+
+msgid "follow tweets"
+msgstr "围观微博"
+
+msgid "followed"
+msgstr "围观别人"
+
+msgid "follower"
+msgstr "围观者"
+
+msgid "for your user account at %(site_name)s"
+msgstr "您在 %(site_name)s 的用户名"
+
+msgid "four"
+msgstr "四"
+
+msgid "fourth argument to %s tag must be 'as'"
+msgstr "标签 %s 的第四个参数必须为 'as'"
+
+msgid "from"
+msgstr "来自"
+
+msgid "galleries"
+msgstr "图库"
+
+msgid "gallery"
+msgstr "图库"
+
+msgid "gallery upload"
+msgstr "相册上传"
+
+msgid "gallery uploads"
+msgstr "相册上传"
+
+msgid "group"
+msgstr "群组"
+
+msgid "groups"
+msgstr "群组"
+
+msgid "has favicon"
+msgstr "有 favicon"
+
+msgid "height"
+msgstr "高度"
+
+msgid "if given, fifth argument to %s tag must be 'counts'"
+msgstr "若传递给 %s 标签的每五个参数不为空，则必须为 'counts'"
+
+msgid "if given, fourth argument to %s tag must be 'with'"
+msgstr "若传递给 %s 标签的第四个参数不为空，则必须是 'with'"
+
+msgid "image"
+msgstr "图像"
+
+msgid "images file (.zip)"
+msgstr "图像文件 (.zip)"
+
+msgid "increment view count?"
+msgstr "递增显示次数？"
+
+msgid "invite"
+msgstr "邀请"
+
+msgid "is approved"
+msgstr "已被批准"
+
+msgid "is public"
+msgstr "公开"
+
+msgid "is removed"
+msgstr "已删除"
+
+msgid "jan"
+msgstr "一月"
+
+msgid "join group"
+msgstr "加入群组"
+
+msgid "join tribe"
+msgstr "加入圈子"
+
+msgid "jul"
+msgstr "七月"
+
+msgid "jun"
+msgstr "六月"
+
+msgid "label"
+msgstr "标记"
+
+msgid "language"
+msgstr "语言"
+
+msgid "last changed"
+msgstr "最后更新"
+
+msgid "last login"
+msgstr "上次登陆"
+
+msgid "last modified"
+msgstr "最后更新"
+
+msgid "last name"
+msgstr "姓"
+
+msgid "leave"
+msgstr "退出"
+
+msgid "location"
+msgstr "位置"
+
+msgid "log entries"
+msgstr "日志条目"
+
+msgid "log entry"
+msgstr "条目"
+
+msgid "mar"
+msgstr "三月"
+
+msgid "markup"
+msgstr "标记"
+
+msgid "may"
+msgstr "五月"
+
+msgid "medium"
+msgstr "中等"
+
+msgid "members"
+msgstr "成员"
+
+msgid "members only"
+msgstr "仅成员"
+
+msgid "message"
+msgstr "消息"
+
+msgid "midnight"
+msgstr "午夜"
+
+msgid "minutes"
+msgstr "分"
+
+msgid "model:"
+msgstr "模型："
+
+msgid "modified"
+msgstr "修改日期"
+
+msgid "more..."
+msgstr "更多……"
+
+msgid "name"
+msgstr "名称"
+
+msgid "next"
+msgstr "下一条"
+
+msgid "nine"
+msgstr "九"
+
+msgid "no"
+msgstr "否"
+
+msgid "none"
+msgstr "无"
+
+msgid "noon"
+msgstr "中午"
+
+msgid "note"
+msgstr "笔记"
+
+msgid "notice"
+msgstr "公告"
+
+msgid "notice setting"
+msgstr "公告设置"
+
+msgid "notice settings"
+msgstr "公告设置"
+
+msgid "notice type"
+msgstr "公告类型"
+
+msgid "notice types"
+msgstr "公告类型"
+
+msgid "notices"
+msgstr "公告"
+
+msgid "nov"
+msgstr "十一月"
+
+msgid "number of %s"
+msgstr "%s 数量"
+
+msgid "object ID"
+msgstr "对象ID"
+
+msgid "object id"
+msgstr "对象 ID"
+
+msgid "oct"
+msgstr "十月"
+
+msgid "on"
+msgstr "在"
+
+msgid "one"
+msgstr "一"
+
+msgid "one of your friends has a new connection"
+msgstr "您的朋友有了新的关系"
+
+msgid "opacity"
+msgstr "不透明度"
+
+msgid "or"
+msgstr "或"
+
+msgid "or make changes"
+msgstr "或者修改"
+
+msgid "p.m."
+msgstr "下午"
+
+msgid "password"
+msgstr "密码"
+
+msgid "permission"
+msgstr "授权"
+
+msgid "permissions"
+msgstr "授权"
+
+msgid "photo"
+msgstr "照片"
+
+msgid "photo effect"
+msgstr "图像效果"
+
+msgid "photo effects"
+msgstr "图像效果"
+
+msgid "photo set"
+msgstr "相册"
+
+msgid "photo sets"
+msgstr "相册"
+
+msgid "photo size"
+msgstr "图片大小"
+
+msgid "photo sizes"
+msgstr "图片大小"
+
+msgid "photos"
+msgstr "照片"
+
+msgid "post"
+msgstr "文章"
+
+msgid "posts"
+msgstr "文章"
+
+msgid "pre-cache?"
+msgstr "预设大小？"
+
+msgid "previous"
+msgstr "上一条"
+
+msgid "private"
+msgstr "私有"
+
+msgid "profile"
+msgstr "资料"
+
+msgid "profiles"
+msgstr "资料"
+
+msgid "project"
+msgstr "项目"
+
+msgid "publish"
+msgstr "公开"
+
+msgid "publish_type"
+msgstr "公开类型"
+
+msgid "quality"
+msgstr "质量"
+
+msgid "re-send verification email"
+msgstr "重新发送验证邮件"
+
+msgid "read at"
+msgstr "阅读日期"
+
+msgid "redirect"
+msgstr "重定向"
+
+msgid "redirect to"
+msgstr "重定向到"
+
+msgid "redirects"
+msgstr "重定向"
+
+msgid "registration required"
+msgstr "只允许注册用户"
+
+msgid "related `%(app_label)s.%(object_name)s` objects"
+msgstr "相关 `%(app_label)s.%(object_name)s` 对象"
+
+msgid "remove"
+msgstr "移除"
+
+msgid "remove from friends"
+msgstr "从好友中删除"
+
+msgid "replied at"
+msgstr "回复日期"
+
+msgid "reply"
+msgstr "回复"
+
+msgid "reset yet?"
+msgstr "仍要重置吗？"
+
+msgid "resolution"
+msgstr "解决方案"
+
+msgid "resolution:"
+msgstr "解决方案："
+
+msgid "rotate or flip"
+msgstr "旋转或翻转"
+
+msgid "safetylevel"
+msgstr "安全级别"
+
+msgid "save"
+msgstr "保存"
+
+msgid "saved"
+msgstr "已保存"
+
+msgid "search"
+msgstr "查找"
+
+msgid "second argument to %s tag must be 'in'"
+msgstr "标签 %s 的第二个参数必须为 'in'"
+
+msgid "send"
+msgstr "发送"
+
+msgid "sent"
+msgstr "发送"
+
+msgid "sent at"
+msgstr "发送日期"
+
+msgid "sep"
+msgstr "九月"
+
+msgid "session"
+msgstr "会话"
+
+msgid "session data"
+msgstr "会话数据"
+
+msgid "sessions"
+msgstr "会话"
+
+msgid "set password"
+msgstr "设置密码"
+
+msgid "seven"
+msgstr "七"
+
+msgid "sharpness"
+msgstr "锐度"
+
+msgid "short description"
+msgstr "简述"
+
+msgid "signal"
+msgstr "信号"
+
+msgid "site"
+msgstr "网站"
+
+msgid "site wide"
+msgstr "全网站"
+
+msgid "sites"
+msgstr "网站"
+
+msgid "six"
+msgstr "六"
+
+msgid "size"
+msgstr "大小"
+
+msgid "someone has started following your tweets"
+msgstr "某人开始围观您的微博"
+
+msgid "someone sent a tweet reply to you"
+msgstr "某人回复了您的微博"
+
+msgid "staff status"
+msgstr "帐号状态"
+
+msgid "state"
+msgstr "状态"
+
+msgid "status"
+msgstr "状态"
+
+msgid "strength"
+msgstr "长度"
+
+msgid "style"
+msgstr "风格"
+
+msgid "summary"
+msgstr "摘要"
+
+msgid "superuser status"
+msgstr "超级用户状态"
+
+msgid "tag"
+msgstr "标签"
+
+msgid "tag:"
+msgstr "标签："
+
+msgid "tagged item"
+msgstr "被标签的项"
+
+msgid "tagged items"
+msgstr "被标签的项"
+
+msgid "tags"
+msgstr "标签"
+
+msgid "task"
+msgstr "任务"
+
+msgid "tasks"
+msgstr "任务"
+
+msgid "tease"
+msgstr "戏弄"
+
+msgid "template"
+msgstr "模板"
+
+msgid "template name"
+msgstr "模板名称"
+
+msgid "templates"
+msgstr "模板"
+
+msgid "text"
+msgstr "文本"
+
+msgid "the related `%(app_label)s.%(data_type)s` object"
+msgstr "相关 `%(app_label)s.%(data_type)s` 对象"
+
+msgid "there has been a change in the state of a task"
+msgstr "任务状态已经改变"
+
+msgid "there has been a change in the tagging of a task"
+msgstr "任务标签已经改变"
+
+msgid "there has been a status update to a task"
+msgstr "任务状态已经更新"
+
+msgid "three"
+msgstr "三"
+
+msgid "timestamp"
+msgstr "时间截"
+
+msgid "timezone"
+msgstr "时区"
+
+msgid "title"
+msgstr "标题"
+
+msgid "title slug"
+msgstr "友好URL"
+
+msgid "to add you."
+msgstr "是否添加您。"
+
+msgid "today"
+msgstr "今天"
+
+msgid "tomorrow"
+msgstr "明天"
+
+msgid "try again:"
+msgstr "重试："
+
+msgid "two"
+msgstr "二"
+
+msgid "type"
+msgstr "类型"
+
+msgid "unassigned"
+msgstr "未分配的"
+
+msgid "undelete"
+msgstr "撤消删除"
+
+msgid "unfollow"
+msgstr "不围观"
+
+msgid "unseen"
+msgstr "未读的"
+
+msgid "unverified"
+msgstr "未验证"
+
+msgid "update"
+msgstr "更新"
+
+msgid "updated"
+msgstr "已更新"
+
+msgid "updated at"
+msgstr "更新日期"
+
+msgid "upload"
+msgstr "上传"
+
+msgid "upscale images?"
+msgstr "放大图像？"
+
+msgid "user"
+msgstr "用户"
+
+msgid "user permissions"
+msgstr "用户授权"
+
+msgid "user's URL"
+msgstr "用户URL"
+
+msgid "user's email address"
+msgstr "用户邮件"
+
+msgid "user's name"
+msgstr "用户名称"
+
+msgid "username"
+msgstr "用户名"
+
+msgid "users"
+msgstr "用户"
+
+msgid "verified"
+msgstr "已验证"
+
+msgid "waiting list entries"
+msgstr "等待列表项目"
+
+msgid "waiting list entry"
+msgstr "等待列表项目"
+
+msgid "watermark"
+msgstr "水印"
+
+msgid "watermark image"
+msgstr "水印图片"
+
+msgid "watermarks"
+msgstr "水印"
+
+msgid "website"
+msgstr "网站"
+
+msgid "width"
+msgstr "宽度"
+
+msgid "yes"
+msgstr "是"
+
+msgid "yes,no,maybe"
+msgstr "是、否、或者"
+
+msgid "yesterday"
+msgstr "昨天"
+
+msgid "you are already logged in as %(user)s."
+msgstr "您已经用 %(user)s 登陆。"
+
+msgid "you have accepted an invitation you received"
+msgstr "您已接受收到的邀请"
+
+msgid "you have deleted a message"
+msgstr "您已删除了一条消息"
+
+msgid ""
+"you have invited <a href=\"%(user_url)s\">%(invitation_to_user)s</a> to add "
+"you as a friend."
+msgstr ""
+"您请求与 <a href=\"%(user_url)s\">%(invitation_to_user)s</a> 成为好友。"
+
+msgid "you have received a message"
+msgstr "您收到一条消息"
+
+msgid "you have received a reply to a message"
+msgstr "您收到一条回复"
+
+msgid "you have received an invitation"
+msgstr "您收到一个邀请"
+
+msgid "you have replied to a message"
+msgstr "您已回复了一条消息"
+
+msgid "you have sent a message"
+msgstr "您已经发送一条短信"
+
+msgid "you have sent an invitation"
+msgstr "您已发送一个邀请"
+
+msgid "you have undelete a message"
+msgstr "您已恢复了一条消息"
+
+msgid "your article has been edited"
+msgstr "您的文章已被编辑。"
+
+msgid "your revision has been reverted"
+msgstr "您的版本已经回滚"
+
+

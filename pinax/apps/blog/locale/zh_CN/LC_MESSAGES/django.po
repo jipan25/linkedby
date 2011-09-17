@@ -1,0 +1,138 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-17 14:45+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: forms.py:10
+msgid ""
+"a short version of the title consisting only of letters, numbers, "
+"underscores and hyphens."
+msgstr "简要标题只能由字母、数字、下划线（_）和连字符（-）组成。"
+
+#: forms.py:11
+msgid "This value must contain only letters, numbers, underscores and hyphens."
+msgstr "只能由字母、数字、下划线（_）和连字符（-）组成。"
+
+#: management.py:9
+msgid "Friend Posted to Blog"
+msgstr "好友博客文章"
+
+#: management.py:9
+msgid "a friend of yours posted to their blog"
+msgstr "您的好友发表了一篇博客"
+
+#: management.py:10
+msgid "New Comment on Blog Post"
+msgstr "博客文章新的评论"
+
+#: management.py:10
+msgid "a comment was made on one of your blog posts"
+msgstr "有人对您的博客文章进行了评论。"
+
+#: models.py:20
+msgid "Draft"
+msgstr "草稿"
+
+#: models.py:21
+msgid "Public"
+msgstr "公开"
+
+#: models.py:23
+msgid "title"
+msgstr "标题"
+
+#: models.py:24
+msgid "slug"
+msgstr ""
+
+#: models.py:26
+msgid "IP Address of the Post Creator"
+msgstr "文章发布者的IP地址"
+
+#: models.py:27
+msgid "body"
+msgstr "内容"
+
+#: models.py:28
+msgid "tease"
+msgstr ""
+
+#: models.py:29
+msgid "status"
+msgstr "状态"
+
+#: models.py:30
+msgid "allow comments"
+msgstr "允许评论"
+
+#: models.py:31
+msgid "publish"
+msgstr "公布"
+
+#: models.py:32
+msgid "created at"
+msgstr "创作于"
+
+#: models.py:33
+msgid "updated at"
+msgstr "更新于"
+
+#: models.py:34
+msgid "Post Content Markup"
+msgstr "发布内容标记"
+
+#: models.py:40
+msgid "post"
+msgstr "文章"
+
+#: models.py:41
+msgid "posts"
+msgstr "文章"
+
+#: views.py:64
+#, python-format
+msgid "Successfully deleted post '%s'"
+msgstr "删除文章 '%s' 成功"
+
+#: views.py:85
+#, python-format
+msgid "Successfully saved post '%s'"
+msgstr "保存文章 '%s' 成功"
+
+#: views.py:114
+#, python-format
+msgid "Successfully updated post '%s'"
+msgstr "更新文章 '%s' 成功"
+
+#: templates/notification/blog_friend_post/notice.html:2
+#, python-format
+msgid ""
+"<a href=\"%(author_url)s\">%(post_author)s</a> has posted <a href="
+"\"%(post_url)s\">%(post_title)s</a> to their blog."
+msgstr ""
+"<a href=\"%(author_url)s\">%(post_author)s</a> 在博客中发布了文章 <a href="
+"\"%(post_url)s\">%(post_title)s</a> 。"
+
+#: templates/notification/blog_post_comment/notice.html:2
+#, python-format
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has commented on your blog post '<a "
+"href=\"%(post_url)s\">%(post)s</a>'."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 对您的文章 '<a href=\"%(post_url)s\">"
+"%(post)s</a>'进行了评论。"

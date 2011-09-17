@@ -1,0 +1,31 @@
+{% extends "profiles/base.html" %}
+
+{% load i18n %}
+{% load uni_form %}
+
+{% block head_title %}{% blocktrans %}Edit Profile{% endblocktrans %}{% endblock %}
+
+{% block body %}
+    <script type="text/javascript">
+        $(document).ready(function(){
+        	set_your_area($('#id_latitude'), $('#id_longitude'), $('#id_scale'), $('#id_latitude').val(), $('#id_longitude').val(), {{profile.scale}});
+            $('#div_id_latitude').hide(); 
+            $('#div_id_longitude').hide();
+            $('#div_id_scale').hide();
+            $('#div_id_location').hide();
+          });
+        </script>
+    <h1>{% trans "Edit Profile" %}</h1>
+    <form class="uniForm" id="edit-profile" method="POST" action="">
+            <fieldset class="inlineLabels">
+                {{ profile_form|as_uni_form }}
+                <p>{% trans "Please select the area you are interested:" %}</p>  
+                <div id="map_canvas" style="width:600px; height:500px"></div>
+                <div class="form_block">
+                    <input type="submit" value="update" />
+                    or <a href="{% url profile_detail profile.user.username %}">cancel</a>
+                </div>
+            </fieldset>
+        </form>
+    
+{% endblock %}

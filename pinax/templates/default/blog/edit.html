@@ -1,0 +1,59 @@
+{% extends "profiles/base.html" %}
+
+{% load i18n %}
+{% load uni_form %}
+
+{% block head_title %}{% blocktrans %}Editing Post{% endblocktrans %}{% endblock %}
+
+{% block body %}
+    {% ifequal post.author request.user %}
+        <script type="text/javascript">
+        $(document).ready(function(){
+            var map = initialize({{post.latitude}},{{post.longitude}},10);
+            set_marker($('#id_latitude'), $('#id_longitude'), {{post.latitude}},{{post.longitude}}, map);
+            $('#div_id_latitude').hide(); 
+            $('#div_id_longitude').hide();
+            $('#div_id_tags').hide();
+            
+            $(":checkbox").click(function(){
+                var str="";
+                $("[name=items]:checkbox:checked").each(function(){
+                    str+=$(this).val()+",";
+                })
+                $("#id_tags").val(str);
+            });
+          });
+   		</script>
+    
+        <form class="uniForm" id="edit-profile" method="POST" action="">
+            <fieldset class="inlineLabels">
+                {{ blog_form|as_uni_form }} 
+                <div id="tags" >
+                   <p>Select the tags(no more than 3)</p>
+                   <input type="checkbox" name="items" value="北京"/>北京
+                   <input type="checkbox" name="items" value="天津"/>天津
+                   <input type="checkbox" name="items" value="上海"/>上海
+                   <input type="checkbox" name="items" value="广州"/>广州
+                   <input type="checkbox" name="items" value="南京"/>南京
+                </div>
+                <div id="map_canvas" style="width:600px; height:500px"></div> 
+                <div class="form_block">
+                <input type="hidden" name="action" value="update" />
+                <input type="submit" value="{% trans "Update" %}"/>
+                </div>
+            </fieldset>
+        </form>
+    {% else %}
+    <p>{% trans "You are not the author of this post" %}</p>
+    {% endifequal %}
+{% endblock %}
+
+{% block extra_body %}
+    {% load jquery_validation %}
+    {% include_validation %}
+    <script type="text/javascript">
+        $(function(){
+            $('#blog_form').validate('{% url blog_form_validate %}', {type: 'table'});
+        });
+    </script>
+{% endblock %}

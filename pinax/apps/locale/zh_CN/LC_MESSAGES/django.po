@@ -1,0 +1,892 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-19 00:27+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: account/forms.py:29 account/forms.py:62 account/forms.py:353
+msgid "Username"
+msgstr "用户名"
+
+#: account/forms.py:30 account/forms.py:63 account/forms.py:235
+#: account/forms.py:354
+msgid "Password"
+msgstr "密码"
+
+#: account/forms.py:31
+msgid "Remember Me"
+msgstr "自动登陆"
+
+#: account/forms.py:31
+msgid "If checked you will stay logged in for 3 weeks"
+msgstr "若选中可在三周内自动登陆"
+
+#: account/forms.py:43
+msgid "This account is currently inactive."
+msgstr "该帐号已被禁用。"
+
+#: account/forms.py:45
+msgid "The username and/or password you specified are not correct."
+msgstr "用户名或密码错误。"
+
+#: account/forms.py:51 account/views.py:68 signup_codes/views.py:34
+#, python-format
+msgid "Successfully logged in as %(username)s."
+msgstr "%(username)s 成功登陆。"
+
+#: account/forms.py:64 account/forms.py:236
+msgid "Password (again)"
+msgstr "新密码(确认)"
+
+#: account/forms.py:68 account/forms.py:144 account/forms.py:196
+#: account/forms.py:252
+msgid "Email"
+msgstr "电子邮箱"
+
+#: account/forms.py:74 account/forms.py:150
+msgid "Email (optional)"
+msgstr "电子邮箱(可选)"
+
+#: account/forms.py:83
+msgid "Usernames can only contain letters, numbers and underscores."
+msgstr "用户名只能包含字母、数字和下划线（_）"
+
+#: account/forms.py:88
+msgid "This username is already taken. Please choose another."
+msgstr "该用户名已经被注册，请选择其它用户名。"
+
+#: account/forms.py:93 account/forms.py:224 account/forms.py:241
+#: account/forms.py:300
+msgid "You must type the same password each time."
+msgstr "两次密码必须一致。"
+
+#: account/forms.py:117
+msgid "Your email address has already been verified"
+msgstr "您的邮件地址已验证过。"
+
+#: account/forms.py:124 account/forms.py:129 account/forms.py:206
+#: account/views.py:97
+#, python-format
+msgid "Confirmation email sent to %(email)s"
+msgstr "确认邮件已发送到 %(email)s"
+
+#: account/forms.py:203
+msgid "This email address already associated with this account."
+msgstr "该邮件已和该帐号关联。"
+
+#: account/forms.py:212
+msgid "Current Password"
+msgstr "当前密码"
+
+#: account/forms.py:213 account/forms.py:287
+msgid "New Password"
+msgstr "新密码"
+
+#: account/forms.py:214 account/forms.py:288
+msgid "New Password (again)"
+msgstr "新密码(确认)"
+
+#: account/forms.py:218
+msgid "Please type your current password."
+msgstr "请输入当前密码"
+
+#: account/forms.py:230 account/forms.py:312
+msgid "Password successfully changed."
+msgstr "密码更改成功"
+
+#: account/forms.py:247
+msgid "Password successfully set."
+msgstr "密码设置成功"
+
+#: account/forms.py:256
+msgid "Email address not verified for any user account"
+msgstr "邮件未使用为任何用户验证。"
+
+#: account/forms.py:275
+msgid "Password reset email sent"
+msgstr "密码重置邮件已发送"
+
+#: account/forms.py:294
+msgid "Temporary key is invalid."
+msgstr "临时密钥无效。"
+
+#: account/forms.py:322
+msgid "Timezone"
+msgstr "时区"
+
+#: account/forms.py:331
+msgid "Timezone successfully updated."
+msgstr "时区更改成功。"
+
+#: account/forms.py:336
+msgid "Language"
+msgstr "语言"
+
+#: account/forms.py:345
+msgid "Language successfully updated."
+msgstr "语言更改成功"
+
+#: account/forms.py:367
+msgid "Successfully authenticated."
+msgstr "验证成功"
+
+#: account/models.py:18 account/models.py:31 account/models.py:104
+#: basic_profiles/models.py:9 profiles/models.py:11 projects/models.py:35
+msgid "user"
+msgstr "用户"
+
+#: account/models.py:20
+msgid "timezone"
+msgstr "时区"
+
+#: account/models.py:21
+msgid "language"
+msgstr "语言"
+
+#: account/models.py:32
+msgid "Other Service Info Key"
+msgstr "其它服务信息键"
+
+#: account/models.py:33
+msgid "Other Service Info Value"
+msgstr "其他服务信息值"
+
+#: account/models.py:106
+msgid "temp_key"
+msgstr ""
+
+#: account/models.py:107
+msgid "timestamp"
+msgstr "时间截"
+
+#: account/models.py:108
+msgid "reset yet?"
+msgstr "仍要重置吗？"
+
+#: account/views.py:112
+#, python-format
+msgid "Removed email address %(email)s"
+msgstr "一封邮件已经发送至 %(email)s，请查收。"
+
+#: account/views.py:252
+msgid "Twitter authentication failed"
+msgstr "Twitter验证失败"
+
+#: account/views.py:271
+msgid "Removed twitter account information successfully."
+msgstr "成功移除twiter帐号信息。"
+
+#: account/templatetags/openid_tags.py:27
+msgid "Logged in with OpenID"
+msgstr "使用 OpenID 登陆"
+
+#: basic_profiles/models.py:10 groups/base.py:37 photos/models.py:22
+#: profiles/models.py:12
+msgid "name"
+msgstr "名字"
+
+#: basic_profiles/models.py:11 profiles/models.py:13
+msgid "about"
+msgstr "关于"
+
+#: basic_profiles/models.py:12 profiles/models.py:14
+msgid "location"
+msgstr "地点"
+
+#: basic_profiles/models.py:13 profiles/models.py:18
+msgid "website"
+msgstr "个人主页"
+
+#: basic_profiles/models.py:23 profiles/models.py:28
+msgid "profile"
+msgstr "个人资料"
+
+#: basic_profiles/models.py:24 profiles/models.py:29
+msgid "profiles"
+msgstr "个人资料"
+
+#: basic_profiles/templates/profile_item.html:8
+#: profiles/templates/profile_item.html:10
+msgid "Name"
+msgstr "名字"
+
+#: basic_profiles/templates/profile_item.html:9
+#: profiles/templates/profile_item.html:11
+msgid "About"
+msgstr "关于"
+
+#: basic_profiles/templates/profile_item.html:10
+#: profiles/templates/profile_item.html:12
+msgid "Location"
+msgstr "地点"
+
+#: basic_profiles/templates/profile_item.html:11
+#: profiles/templates/profile_item.html:13
+msgid "Website"
+msgstr "个人主页"
+
+#: blog/forms.py:10
+msgid ""
+"a short version of the title consisting only of letters, numbers, "
+"underscores and hyphens."
+msgstr "简要标题只能由字母、数字、下划线（_）和连字符（-）组成。"
+
+#: blog/forms.py:11 projects/forms.py:20 tribes/forms.py:12
+msgid "This value must contain only letters, numbers, underscores and hyphens."
+msgstr "该项只允许包含字母、数字和下划线。"
+
+#: blog/management.py:9
+msgid "Friend Posted to Blog"
+msgstr "好友博客文章"
+
+#: blog/management.py:9
+msgid "a friend of yours posted to their blog"
+msgstr "您的好友发表了一篇博客"
+
+#: blog/management.py:10
+msgid "New Comment on Blog Post"
+msgstr "博客文章新的评论"
+
+#: blog/management.py:10
+msgid "a comment was made on one of your blog posts"
+msgstr "有人对您的博客文章进行了评论。"
+
+#: blog/models.py:20
+msgid "Draft"
+msgstr "草稿"
+
+#: blog/models.py:21 photos/models.py:14
+msgid "Public"
+msgstr "公开"
+
+#: blog/models.py:23 photos/models.py:39 topics/models.py:31
+msgid "title"
+msgstr "标题"
+
+#: blog/models.py:24 groups/base.py:36 photos/models.py:40
+msgid "slug"
+msgstr ""
+
+#: blog/models.py:26
+msgid "IP Address of the Post Creator"
+msgstr "文章发布者的IP地址"
+
+#: blog/models.py:27 topics/models.py:35
+msgid "body"
+msgstr "内容"
+
+#: blog/models.py:28
+msgid "tease"
+msgstr ""
+
+#: blog/models.py:29 tasks/models.py:58 tasks/models.py:202
+msgid "status"
+msgstr "状态"
+
+#: blog/models.py:30
+msgid "allow comments"
+msgstr "允许评论"
+
+#: blog/models.py:31
+msgid "publish"
+msgstr "公开"
+
+#: blog/models.py:32
+msgid "created at"
+msgstr "创建时间"
+
+#: blog/models.py:33
+msgid "updated at"
+msgstr "更新时间"
+
+#: blog/models.py:34
+msgid "Post Content Markup"
+msgstr "发布内容标记"
+
+#: blog/models.py:40
+msgid "post"
+msgstr "文章"
+
+#: blog/models.py:41
+msgid "posts"
+msgstr "文章"
+
+#: blog/views.py:64
+#, python-format
+msgid "Successfully deleted post '%s'"
+msgstr "删除文章 '%s' 成功"
+
+#: blog/views.py:85
+#, python-format
+msgid "Successfully saved post '%s'"
+msgstr "保存文章 '%s' 成功"
+
+#: blog/views.py:114
+#, python-format
+msgid "Successfully updated post '%s'"
+msgstr "更新文章 '%s' 成功"
+
+#: blog/templates/notification/blog_friend_post/notice.html:2
+#, python-format
+msgid ""
+"<a href=\"%(author_url)s\">%(post_author)s</a> has posted <a href="
+"\"%(post_url)s\">%(post_title)s</a> to their blog."
+msgstr ""
+"<a href=\"%(author_url)s\">%(post_author)s</a> 在博客中发布了文章 <a href="
+"\"%(post_url)s\">%(post_title)s</a> 。"
+
+#: blog/templates/notification/blog_post_comment/notice.html:2
+#, python-format
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has commented on your blog post '<a "
+"href=\"%(post_url)s\">%(post)s</a>'."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 对您的文章 '<a href=\"%(post_url)s\">"
+"%(post)s</a>'进行了评论。"
+
+#: groups/base.py:38 tasks/models.py:50 tasks/models.py:195
+#: topics/models.py:32
+msgid "creator"
+msgstr "作者"
+
+#: groups/base.py:39 tasks/models.py:51 tasks/models.py:196
+#: topics/models.py:33
+msgid "created"
+msgstr "创建时间"
+
+#: groups/base.py:40 photos/models.py:23
+msgid "description"
+msgstr "描述"
+
+#: photos/forms.py:16
+msgid ""
+"Image filename contains an invalid character: '#'. Please remove the "
+"character and try again."
+msgstr "图像文件名包含了非法字符：“#”，请移除该字符后重试。"
+
+#: photos/models.py:15
+msgid "Private"
+msgstr "私有"
+
+#: photos/models.py:24
+msgid "publish_type"
+msgstr "公开类型"
+
+#: photos/models.py:28 photos/models.py:46
+msgid "photo set"
+msgstr "相册"
+
+#: photos/models.py:29
+msgid "photo sets"
+msgstr "相册"
+
+#: photos/models.py:36
+msgid "Safe"
+msgstr "安全"
+
+#: photos/models.py:37
+msgid "Not Safe"
+msgstr "不安全"
+
+#: photos/models.py:41
+msgid "caption"
+msgstr "标题"
+
+#: photos/models.py:42
+msgid "date added"
+msgstr "数据已添加"
+
+#: photos/models.py:43
+msgid "is public"
+msgstr "公开"
+
+#: photos/models.py:43
+msgid "Public photographs will be displayed in the default views."
+msgstr "公开的照片将会在默认视图中显示。"
+
+#: photos/models.py:45
+msgid "safetylevel"
+msgstr "安全级别"
+
+#: photos/models.py:66
+msgid "created_at"
+msgstr "创建于"
+
+#: photos/models.py:71
+msgid "pool"
+msgstr "相册"
+
+#: photos/models.py:72
+msgid "pools"
+msgstr "相册"
+
+#: photos/views.py:48
+#, python-format
+msgid "Successfully uploaded photo '%s'"
+msgstr "照片 '%s' 上传成功"
+
+#: photos/views.py:244
+#, python-format
+msgid "Successfully updated photo '%s'"
+msgstr "照片 '%s' 更改成功"
+
+#: photos/views.py:298
+#, python-format
+msgid "Successfully deleted photo '%s'"
+msgstr "照片 '%s' 删除成功"
+
+#: profiles/views.py:87
+#, python-format
+msgid "You have removed %(from_user)s from friends"
+msgstr "您删除了好友 %(from_user)s"
+
+#: profiles/views.py:91 profiles/views.py:103 profiles/views.py:128
+msgid "Let's be friends!"
+msgstr "交个朋友吧！"
+
+#: profiles/views.py:111
+#, python-format
+msgid "You have accepted the friendship request from %(from_user)s"
+msgstr "您接受了 %(from_user)s 的好友请求。"
+
+#: profiles/views.py:121
+#, python-format
+msgid "You have declined the friendship request from %(from_user)s"
+msgstr "您拒绝了 %(from_user)s 的好友请求。"
+
+#: projects/forms.py:19 tribes/forms.py:11
+msgid ""
+"a short version of the name consisting only of letters, numbers, underscores "
+"and hyphens."
+msgstr "简洁名称只能包含字母、数字、下划线(_)和连字符(-)。"
+
+#: projects/forms.py:24
+msgid "A project already exists with that slug."
+msgstr ""
+
+#: projects/forms.py:29 projects/forms.py:46
+msgid "A project already exists with that name."
+msgstr "已经有重名项目。"
+
+#: projects/forms.py:56
+msgid "User"
+msgstr "用户"
+
+#: projects/forms.py:66
+msgid "There is no user with this username."
+msgstr "用户名不存在"
+
+#: projects/forms.py:69
+msgid "User is already a member of this project."
+msgstr "该用户已经是该项目的成员。"
+
+#: projects/management.py:9
+msgid "New Project Member"
+msgstr "新项目成员"
+
+#: projects/management.py:9
+msgid "a project you are a member of has a new member"
+msgstr "您所在群组有新成员加入"
+
+#: projects/management.py:10
+msgid "New Member Of Project You Created"
+msgstr "您所创建项目的新成员"
+
+#: projects/management.py:10
+msgid "a project you created has a new member"
+msgstr "您所创建项目有了新成员"
+
+#: projects/management.py:11
+msgid "New Project Created"
+msgstr "新创建的项目"
+
+#: projects/management.py:11
+msgid "a new project has been created"
+msgstr "新创建了一个项目"
+
+#: projects/management.py:12
+msgid "Added as a Project Member"
+msgstr "添加为项目"
+
+#: projects/management.py:12
+msgid "you have become member of a project"
+msgstr "你成为了一个项目的成员"
+
+#: projects/models.py:12 tribes/models.py:10
+msgid "members"
+msgstr "成员"
+
+#: projects/models.py:15
+msgid "private"
+msgstr "私有"
+
+#: projects/models.py:34
+msgid "project"
+msgstr "项目"
+
+#: projects/models.py:37
+msgid "away"
+msgstr "离开"
+
+#: projects/models.py:38
+msgid "away_message"
+msgstr "离开的消息"
+
+#: projects/models.py:39
+msgid "away since"
+msgstr "离开于"
+
+#: projects/views.py:87
+#, python-format
+msgid "Project %(project_name)s deleted."
+msgstr "删除 %(project_name)s 项目。"
+
+#: signup_codes/forms.py:54
+#, python-format
+msgid "Create an acccount on %(domain)s"
+msgstr "在 %(domain)s 中创建帐号"
+
+#: signup_codes/views.py:68
+#, python-format
+msgid "An e-mail has been sent to %(email)s."
+msgstr "邮件已经发送至 %(email)s。"
+
+#: signup_codes/views.py:73
+msgid "Invite user"
+msgstr "邀请用户"
+
+#: tasks/forms.py:96
+msgid "You must provide a resolution to mark this task as resolved"
+msgstr "您要将该任务标志为已经完成则必须提供一个解决方案"
+
+#: tasks/management.py:11
+msgid "New Task"
+msgstr "新任务"
+
+#: tasks/management.py:11
+msgid "a new task been created"
+msgstr "有一个新创建的任务"
+
+#: tasks/management.py:12
+msgid "Task Comment"
+msgstr "任务注释"
+
+#: tasks/management.py:12
+msgid "a new comment has been made on a task"
+msgstr "任务已经注释"
+
+#: tasks/management.py:13
+msgid "Task State Change"
+msgstr "任务状态变更"
+
+#: tasks/management.py:13
+msgid "there has been a change in the state of a task"
+msgstr "任务状态已经改变"
+
+#: tasks/management.py:14
+msgid "Task Assignment"
+msgstr "任务分配"
+
+#: tasks/management.py:14
+msgid "a task has been (re)assigned"
+msgstr "任务已经（重新）分配"
+
+#: tasks/management.py:15
+msgid "Task Status Update"
+msgstr "任务状态更新"
+
+#: tasks/management.py:15
+msgid "there has been a status update to a task"
+msgstr "任务状态已经更新"
+
+#: tasks/management.py:16
+msgid "Task Tag Update"
+msgstr "任务标签更新"
+
+#: tasks/management.py:16
+msgid "there has been a change in the tagging of a task"
+msgstr "任务标签已经改变"
+
+#: tasks/management.py:17
+msgid "Task Nudge"
+msgstr ""
+
+#: tasks/management.py:17
+msgid "there has been a nudge of a task"
+msgstr ""
+
+#: tasks/models.py:46 tasks/models.py:191
+msgid "summary"
+msgstr "总结"
+
+#: tasks/models.py:47 tasks/models.py:192
+msgid "detail"
+msgstr "详情"
+
+#: tasks/models.py:48 tasks/models.py:193
+msgid "Detail Markup"
+msgstr "详情标志"
+
+#: tasks/models.py:52 tasks/models.py:197 topics/models.py:34
+msgid "modified"
+msgstr "已修改"
+
+#: tasks/models.py:53 tasks/models.py:198
+msgid "assignee"
+msgstr "分配到任务的人"
+
+#: tasks/models.py:59 tasks/models.py:203
+msgid "state"
+msgstr "状态"
+
+#: tasks/models.py:60 tasks/models.py:204
+msgid "resolution"
+msgstr "解决方案"
+
+#: tasks/models.py:183
+msgid "tasks"
+msgstr "任务"
+
+#: tasks/models.py:207
+msgid "comment"
+msgstr "评论"
+
+#: tasks/models.py:210
+msgid "Owner"
+msgstr "所有者"
+
+#: tasks/models.py:222
+msgid "nudger"
+msgstr ""
+
+#: tasks/models.py:223
+msgid "task"
+msgstr "任务"
+
+#: tasks/models.py:224
+msgid "nudge date"
+msgstr ""
+
+#: tasks/views.py:132
+#, python-format
+msgid ""
+"Link to the snippet: http://%(domain)s%(link)s\n"
+"\n"
+msgstr ""
+"摘录链接： http://%(domain)s%(link)s\n"
+"\n"
+#: tasks/templates/notification/tasks_assignment/notice.html:4
+#, python-format
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has assigned task '<a href="
+"\"%(task_url)s\">%(task)s</a>' in '<a href=\"%(group_url)s\">%(group)s</a>' "
+"to <a href=\"%(assignee_url)s\">%(assignee)s</a>."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 分配了组 '<a href=\"%(group_url)s\">"
+"%(group)s</a>' 中的任务 '<a href=\"%(task_url)s\">%(task)s</a>' 给<a href="
+"\"%(assignee_url)s\">%(assignee)s</a>。"
+
+#: tasks/templates/notification/tasks_assignment/notice.html:6
+#, python-format
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has assigned task '<a href="
+"\"%(task_url)s\">%(task)s</a>' to <a href=\"%(assignee_url)s\">%(assignee)s</"
+"a>."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 分配了任务 '<a href=\"%(task_url)s\">"
+"%(task)s</a>' 给 <a href=\"%(assignee_url)s\">%(assignee)s</a>。"
+
+#: tasks/templates/notification/tasks_change/notice.html:4
+#, python-format
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has marked task '<a href=\"%(task_url)s"
+"\">%(task)s</a>' in '<a href=\"%(group_url)s\">%(group)s</a>' as "
+"%(new_state)s."
+msgstr ""
+
+#: tasks/templates/notification/tasks_change/notice.html:6
+#, python-format
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has marked task '<a href=\"%(task_url)s"
+"\">%(task)s</a>' as %(new_state)s."
+msgstr ""
+
+#: tasks/templates/notification/tasks_change/notice.html:10
+msgid "resolution:"
+msgstr "解决方案"
+
+#: tasks/templates/notification/tasks_comment/notice.html:4
+#, python-format
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has commented on task '<a href="
+"\"%(task_url)s\">%(task)s</a>' in '<a href=\"%(group_url)s\">%(group)s</a>'."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 评论了组 '<a href=\"%(group_url)s\">"
+"%(group)s</a>'中的任务 '<a href=\"%(task_url)s\">%(task)s</a>'。"
+
+#: tasks/templates/notification/tasks_comment/notice.html:6
+#, python-format
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has commented on task '<a href="
+"\"%(task_url)s\">%(task)s</a>'."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 评论了任务 '<a href=\"%(task_url)s\">"
+"%(task)s</a>'。"
+
+#: tasks/templates/notification/tasks_new/notice.html:3
+#, python-format
+msgid ""
+"<a href=\"%(creator_url)s\">%(creator)s</a> has added a task '<a href="
+"\"%(task_url)s\">%(task)s</a>' in '<a href=\"%(group_url)s\">%(group)s</a>'."
+msgstr ""
+"<a href=\"%(creator_url)s\">%(creator)s</a> 在组 '<a href=\"%(group_url)s\">"
+"%(group)s</a>' 中添加了新任务 '<a href=\"%(task_url)s\">%(task)s</a>' 。"
+
+#: tasks/templates/notification/tasks_new/notice.html:5
+#, python-format
+msgid ""
+"<a href=\"%(creator_url)s\">%(creator)s</a> has added a task '<a href="
+"\"%(task_url)s\">%(task)s</a>'."
+msgstr ""
+"<a href=\"%(creator_url)s\">%(creator)s</a> 添加了新任务 '<a href="
+"\"%(task_url)s\">%(task)s</a>'。"
+
+#: tasks/templates/notification/tasks_nudge/notice.html:3
+#, python-format
+msgid ""
+"<a href=\"%(user_url)s\">%(nudger)s</a> has nudged you on task '<a href="
+"\"%(task_url)s\">%(task)s</a>'."
+msgstr ""
+
+#: tasks/templates/notification/tasks_status/notice.html:4
+#, python-format
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has updated the status of task '<a "
+"href=\"%(task_url)s\">%(task)s</a>' in '<a href=\"%(group_url)s\">%(group)s</"
+"a>' to '%(task_status)s'."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 将组 '<a href=\"%(group_url)s\">"
+"%(group)s</a>' 中的任务 '<a href=\"%(task_url)s\">%(task)s</a>' 状态置为 "
+"'%(task_status)s'。"
+
+#: tasks/templates/notification/tasks_status/notice.html:6
+#, python-format
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has updated the status of task '<a "
+"href=\"%(task_url)s\">%(task)s</a>' to '%(task_status)s'."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 将任务 '<a href=\"%(task_url)s\">"
+"%(task)s</a>' 状态置为 '%(task_status)s'。"
+
+#: tasks/templates/notification/tasks_tags/notice.html:4
+#, python-format
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has updated the tags of task '<a href="
+"\"%(task_url)s\">%(task)s</a>' in '<a href=\"%(group_url)s\">%(group)s</a>' "
+"to '%(task_tags)s'."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 将组 '<a href=\"%(group_url)s\">"
+"%(group)s</a>' 中的任务 '<a href=\"%(task_url)s\">%(task)s</a>' 标签更新为 "
+"'%(task_tags)s'。"
+
+#: tasks/templates/notification/tasks_tags/notice.html:6
+#, python-format
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has updated the tags of task '<a href="
+"\"%(task_url)s\">%(task)s</a>' to '%(task_tags)s'."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 将任务 '<a href=\"%(task_url)s\">"
+"%(task)s</a>' 的标签更新为 '%(task_tags)s'。"
+
+#: topics/views.py:57
+#, python-format
+msgid "You have started the topic %(topic_title)s"
+msgstr "您发起了话题 %(topic_title)s"
+
+#: topics/views.py:60
+msgid "You are not a member and so cannot start a new topic"
+msgstr "您还不是成员，所以不能添加任务。"
+
+#: tribes/forms.py:16
+msgid "A tribe already exists with that slug."
+msgstr ""
+
+#: tribes/forms.py:21 tribes/forms.py:38
+msgid "A tribe already exists with that name."
+msgstr "已经有重名圈子。"
+
+#: tribes/management.py:9
+msgid "New Tribe Member"
+msgstr "新的圈子成员"
+
+#: tribes/management.py:9
+msgid "a tribe you are a member of has a new member"
+msgstr "您所在圈子有新成员加入"
+
+#: tribes/management.py:10
+msgid "New Member Of Tribe You Created"
+msgstr "您所创建的圈子的新成员"
+
+#: tribes/management.py:10
+msgid "a tribe you created has a new member"
+msgstr "您所创建的圈子有新成员"
+
+#: tribes/management.py:11
+msgid "New Tribe Created"
+msgstr "新创建的圈子"
+
+#: tribes/management.py:11
+msgid "a new tribe has been created"
+msgstr "新创建了一个圈子"
+
+#: tribes/views.py:86
+#, python-format
+msgid "Tribe %(tribe_name)s deleted."
+msgstr "圈子 %(tribe_name)s 已删除。"
+
+#: tribes/views.py:117
+#, python-format
+msgid "You have joined the tribe %(tribe_name)s"
+msgstr "加入 %(tribe_name)s 圈"
+
+#: tribes/views.py:124
+#, python-format
+msgid "You have already joined tribe %(tribe_name)s"
+msgstr "您已经加入过 %(tribe_name)s 圈子"
+
+#: tribes/templates/notification/tribes_created_new_member/notice.html:2
+#: tribes/templates/notification/tribes_new_member/notice.html:2
+#, python-format
+msgid ""
+"<a href=\"%(user_url)s\">%(user)s</a> has joined the tribe <a href="
+"\"%(tribe_url)s\">%(tribe)s</a>."
+msgstr ""
+"<a href=\"%(user_url)s\">%(user)s</a> 加入 <a href=\"%(tribe_url)s\">%(tribe)"
+"s</a> 圈子。"
+
+#: tribes/templates/notification/tribes_new_tribe/notice.html:2
+#, python-format
+msgid "A new group <a href=\"%(tribe_url)s\">%(tribe)s</a> has been created."
+msgstr "圈子 <a href=\"%(tribe_url)s\">%(tribe)s</a> 已创建。"
+
+#: waitinglist/models.py:12
+msgid "waiting list entry"
+msgstr "等待列表项目"
+
+#: waitinglist/models.py:13
+msgid "waiting list entries"
+msgstr "等待列表项目"

@@ -1,0 +1,4 @@
+.DS_Store
+*.pyc
+mysite/dev.db
+mysite/local_settings.py
